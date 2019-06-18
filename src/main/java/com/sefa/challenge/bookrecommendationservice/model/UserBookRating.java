@@ -1,11 +1,10 @@
 package com.sefa.challenge.bookrecommendationservice.model;
 
+import org.json.JSONObject;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 import javax.persistence.*;
 import java.io.Serializable;
-import java.util.HashMap;
-import java.util.Map;
 
 @Entity()
 @Table(name = "user_book_rate", uniqueConstraints = {
@@ -14,7 +13,7 @@ import java.util.Map;
 public class UserBookRating implements Serializable {
 
     @EmbeddedId
-    UserBookRatingKey id;
+    private UserBookRatingKey id;
 
     @ManyToOne
     @MapsId("user_id")
@@ -103,12 +102,12 @@ public class UserBookRating implements Serializable {
 
     @Override
     public String toString() {
-
-        Map<String, String> response = new HashMap<>();
+        
+        JSONObject response = new JSONObject();
         response.put("ASIN", String.valueOf(getBook().getASIN()));
         response.put("rate", String.valueOf(getRate()));
 
-        return String.valueOf(response);
+        return response.toString();
     }
 
 }

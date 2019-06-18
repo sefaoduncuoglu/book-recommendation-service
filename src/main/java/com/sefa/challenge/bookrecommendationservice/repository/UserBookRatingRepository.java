@@ -10,5 +10,5 @@ import org.springframework.stereotype.Repository;
  * @author Sefa Oduncuoglu
  */
 @Repository
-public interface UserBookRateRepository extends JpaRepository<UserBookRating, Long> {
+public interface UserBookRatingRepository extends JpaRepository<UserBookRating, Long> {
 }

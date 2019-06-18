@@ -17,6 +17,11 @@ public class UserBookRatingKey implements Serializable {
     public UserBookRatingKey() {
     }
 
+    public UserBookRatingKey(Long userId, Long asin) {
+        this.userId = userId;
+        this.asin = asin;
+    }
+
     public Long getuserId() {
         return userId;
     }

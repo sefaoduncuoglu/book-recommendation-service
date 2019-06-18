@@ -6,7 +6,7 @@ import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.model.UserBookRating;
 import com.sefa.challenge.bookrecommendationservice.model.UserBookRatingKey;
 import com.sefa.challenge.bookrecommendationservice.repository.BookRepository;
-import com.sefa.challenge.bookrecommendationservice.repository.UserBookRateRepository;
+import com.sefa.challenge.bookrecommendationservice.repository.UserBookRatingRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
@@ -20,10 +20,10 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/rates")
-public class UserBookRateController {
+public class UserBookRatingController {
 
     @Autowired
-    private UserBookRateRepository userBookRateRepository;
+    private UserBookRatingRepository userBookRatingRepository;
 
     @Autowired
     private UserRepository userRepository;
@@ -54,7 +54,7 @@ public class UserBookRateController {
      * @throws ResourceNotFoundException the resource not found exception
      */
     @PutMapping(value = "/bookrates", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<UserBookRating> rateBooks(
+    public ResponseEntity rateBooks(
             @RequestParam("userId") Long userId, @Valid @RequestBody List<HashMap> bookRates)
             throws ResourceNotFoundException {
 
@@ -74,12 +74,8 @@ public class UserBookRateController {
                             .findById(bookASIN)
                             .orElseThrow(() -> new ResourceNotFoundException("Book not found!"));
 
-            UserBookRatingKey userBookRatingKey = new UserBookRatingKey();
-
-            userBookRatingKey.setUserId(userId);
-            userBookRatingKey.setAsin(bookASIN);
-
             UserBookRating userBookRating = new UserBookRating(user, book);
+            UserBookRatingKey userBookRatingKey = new UserBookRatingKey(userId, bookASIN);
 
             userBookRating.setId(userBookRatingKey);
             userBookRating.setRate(rate);
@@ -87,7 +83,6 @@ public class UserBookRateController {
 
         }
 
-        userBookRateRepository.saveAll(updatedBookRates);
-        return ResponseEntity.ok().body(null);
+        return ResponseEntity.ok().body(userBookRatingRepository.saveAll(updatedBookRates).toString());
     }
 }
