@@ -21,8 +21,16 @@ public class UserBookRatingKey implements Serializable {
         return userId;
     }
 
+    public void setUserId(Long userId) {
+        this.userId = userId;
+    }
+
     public Long getASIN() {
         return asin;
+    }
+
+    public void setAsin(Long asin) {
+        this.asin = asin;
     }
 
     @Override
@@ -41,6 +49,5 @@ public class UserBookRatingKey implements Serializable {
     public int hashCode() {
         return Objects.hash(userId, asin);
     }
-
 
 }

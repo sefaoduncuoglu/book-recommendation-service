@@ -46,6 +46,15 @@ public class User {
     public User() {
     }
 
+    public User(String firstName, String lastName, String email, Date createdAt, Date updatedAt, Set<UserBookRating> userBookRates) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.email = email;
+        this.createdAt = createdAt;
+        this.updatedAt = updatedAt;
+        this.userBookRates = userBookRates;
+    }
+
     /**
      * Gets user id.
      *
@@ -154,6 +163,13 @@ public class User {
         this.updatedAt = updatedAt;
     }
 
+    public Set<UserBookRating> getUserBookRating() {
+        return userBookRates;
+    }
+
+    public void setUserBookRating(Set<UserBookRating> userBookRates) {
+        this.userBookRates = userBookRates;
+    }
 
     @Override
     public String toString() {
@@ -174,7 +190,7 @@ public class User {
                 userRatedBooksArray.put(
                         new JSONObject(
                                 "{" +
-                                        "\"ASIN\":\"" + userBookRating.getId().getASIN() + "\"," +
+                                        "\"ASIN\":\"" + userBookRating.getBook().getASIN() + "\"," +
                                         "\"rate\":\"" + userBookRating.getRate() + "\"" +
                                         "}"
                         )

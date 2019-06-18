@@ -1,8 +1,10 @@
 package com.sefa.challenge.bookrecommendationservice.controller;
 
 import com.sefa.challenge.bookrecommendationservice.exception.ResourceNotFoundException;
+import com.sefa.challenge.bookrecommendationservice.model.Book;
 import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.model.UserBookRating;
+import com.sefa.challenge.bookrecommendationservice.model.UserBookRatingKey;
 import com.sefa.challenge.bookrecommendationservice.repository.BookRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserBookRateRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
@@ -12,6 +14,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 @RestController
@@ -50,10 +54,40 @@ public class UserBookRateController {
      * @throws ResourceNotFoundException the resource not found exception
      */
     @PutMapping(value = "/bookrates", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    public Boolean rateBooks(
-            @RequestParam("userId") Long userId, @Valid @RequestBody List<UserBookRating> bookRates)
+    public ResponseEntity<UserBookRating> rateBooks(
+            @RequestParam("userId") Long userId, @Valid @RequestBody List<HashMap> bookRates)
             throws ResourceNotFoundException {
 
-        return true;
+        User user =
+                userRepository
+                        .findById(userId)
+                        .orElseThrow(() -> new ResourceNotFoundException("User not found!"));
+
+        List<UserBookRating> updatedBookRates = new ArrayList<>();
+
+
+        for (HashMap<String, String> map : bookRates) {
+            long bookASIN = Long.valueOf(map.get("asin"));
+            int rate = Integer.valueOf(map.get("rate"));
+            Book book =
+                    bookRepository
+                            .findById(bookASIN)
+                            .orElseThrow(() -> new ResourceNotFoundException("Book not found!"));
+
+            UserBookRatingKey userBookRatingKey = new UserBookRatingKey();
+
+            userBookRatingKey.setUserId(userId);
+            userBookRatingKey.setAsin(bookASIN);
+
+            UserBookRating userBookRating = new UserBookRating(user, book);
+
+            userBookRating.setId(userBookRatingKey);
+            userBookRating.setRate(rate);
+            updatedBookRates.add(userBookRating);
+
+        }
+
+        userBookRateRepository.saveAll(updatedBookRates);
+        return ResponseEntity.ok().body(null);
     }
 }

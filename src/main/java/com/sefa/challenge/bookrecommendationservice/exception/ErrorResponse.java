@@ -18,9 +18,9 @@ public class ErrorResponse {
      * Instantiates a new Error response.
      *
      * @param timestamp the timestamp
-     * @param status the status
-     * @param message the message
-     * @param details the details
+     * @param status    the status
+     * @param message   the message
+     * @param details   the details
      */
     public ErrorResponse(Date timestamp, String status, String message, String details) {
         this.timestamp = timestamp;

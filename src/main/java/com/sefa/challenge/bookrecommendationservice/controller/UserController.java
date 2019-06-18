@@ -3,15 +3,14 @@ package com.sefa.challenge.bookrecommendationservice.controller;
 import com.sefa.challenge.bookrecommendationservice.exception.ResourceNotFoundException;
 import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
+import com.sefa.challenge.bookrecommendationservice.resource.UserResource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 @RestController
 @RequestMapping("/api/v1/users")
@@ -29,7 +28,13 @@ public class UserController {
     @GetMapping(value = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
     public ResponseEntity<Object> getAllUsers() {
-        return ResponseEntity.ok(userRepository.findAll());
+
+        List<UserResource> userResources = new ArrayList<>();
+        userRepository.findAll().stream().forEach(allUsers -> {
+            userResources.add(getUserResource(allUsers));
+        });
+
+        return ResponseEntity.ok().body(userResources);
     }
 
     /**
@@ -41,13 +46,14 @@ public class UserController {
      */
     @GetMapping(value = "/user", produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody()
-    public ResponseEntity<User> getUserById(@RequestParam("userId") Long userId)
+    public ResponseEntity<UserResource> getUserById(@RequestParam("userId") Long userId)
             throws ResourceNotFoundException {
         User user =
                 userRepository
                         .findById(userId)
                         .orElseThrow(() -> new ResourceNotFoundException("User not found!"));
-        return ResponseEntity.ok().body(user);
+
+        return ResponseEntity.ok().body(getUserResource(user));
     }
 
     /**
@@ -109,4 +115,13 @@ public class UserController {
         return ResponseEntity.ok().body(response);
     }
 
+    private UserResource getUserResource(User user) {
+        return new UserResource(
+                user.getUserId()
+                , user.getFirstName()
+                , user.getLastName()
+                , user.getEmail()
+                , user.getCreatedAt()
+                , user.getUpdatedAt());
+    }
 }

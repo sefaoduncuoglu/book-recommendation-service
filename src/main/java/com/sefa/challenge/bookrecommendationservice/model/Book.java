@@ -31,6 +31,14 @@ public class Book {
     public Book() {
     }
 
+    public Book(long ASIN, String title, String author, String genre, Set<UserBookRating> userBookRatings) {
+        this.ASIN = ASIN;
+        this.title = title;
+        this.author = author;
+        this.genre = genre;
+        this.userBookRatings = userBookRatings;
+    }
+
     /**
      * Gets book ASIN.
      *
@@ -102,6 +110,16 @@ public class Book {
     public void setGenre(String genre) {
         this.genre = genre;
     }
+
+
+    public Set<UserBookRating> getUserBookRatings() {
+        return userBookRatings;
+    }
+
+    public void setUserBookRatings(Set<UserBookRating> userBookRatings) {
+        this.userBookRatings = userBookRatings;
+    }
+
 
     @Override
     public String toString() {

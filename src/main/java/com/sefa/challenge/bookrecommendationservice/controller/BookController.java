@@ -6,13 +6,16 @@ import com.sefa.challenge.bookrecommendationservice.model.Book;
 import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.repository.BookRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
+import com.sefa.challenge.bookrecommendationservice.resource.BookResource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 @RestController
@@ -28,7 +31,12 @@ public class BookController {
 
     @GetMapping(value = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Object> getAllBooks() {
-        return ResponseEntity.ok().body(bookRepository.findAll());
+
+        List<BookResource> bookResources = new ArrayList<>();
+        bookRepository.findAll().stream().forEach(allBooks -> {
+            bookResources.add(getBookResource(allBooks));
+        });
+        return ResponseEntity.ok().body(bookResources);
     }
 
     /**
@@ -40,13 +48,20 @@ public class BookController {
      */
     @GetMapping(value = "/book", produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody()
-    public ResponseEntity<String> getBookById(@RequestParam("bookASIN") Long bookASIN)
+    public ResponseEntity<BookResource> getBookById(@RequestParam("bookASIN") Long bookASIN)
             throws ResourceNotFoundException {
         Book book =
                 bookRepository
                         .findById(bookASIN)
                         .orElseThrow(() -> new ResourceNotFoundException("Book not found!"));
-        return ResponseEntity.ok().body(book.toString());
+
+        BookResource bookResource = new BookResource();
+        bookResource.setASIN(book.getASIN());
+        bookResource.setTitle(book.getTitle());
+        bookResource.setAuthor(book.getAuthor());
+        bookResource.setGenre(book.getGenre());
+
+        return ResponseEntity.ok().body(bookResource);
     }
 
 
@@ -135,4 +150,11 @@ public class BookController {
         return "Fuck the System!";
     }
 
+    private BookResource getBookResource(Book book) {
+        return new BookResource(
+                book.getASIN()
+                , book.getTitle()
+                , book.getAuthor()
+                , book.getGenre());
+    }
 }

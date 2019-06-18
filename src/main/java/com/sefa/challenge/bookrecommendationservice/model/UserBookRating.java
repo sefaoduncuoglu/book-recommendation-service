@@ -3,6 +3,7 @@ package com.sefa.challenge.bookrecommendationservice.model;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -10,7 +11,7 @@ import java.util.Map;
 @Table(name = "user_book_rate", uniqueConstraints = {
         @UniqueConstraint(columnNames = {"user_id", "book_asin"})})
 @EntityListeners(AuditingEntityListener.class)
-public class UserBookRating {
+public class UserBookRating implements Serializable {
 
     @EmbeddedId
     UserBookRatingKey id;
@@ -29,17 +30,21 @@ public class UserBookRating {
     private int rate;
 
 
-    public UserBookRating(){
+    public UserBookRating() {
 
     }
 
-    public UserBookRating(User user, Book book){
+    public UserBookRating(User user, Book book) {
         this.user = user;
         this.book = book;
     }
 
     public UserBookRatingKey getId() {
         return id;
+    }
+
+    public void setId(UserBookRatingKey id) {
+        this.id = id;
     }
 
     /**
