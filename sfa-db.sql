@@ -43,28 +43,6 @@ INSERT INTO `books` VALUES (2182718,'Improve Your Bowls','Tony Allcock','Sports 
 UNLOCK TABLES;
 
 --
--- Table structure for table `hibernate_sequence`
---
-
-DROP TABLE IF EXISTS `hibernate_sequence`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
- SET character_set_client = utf8mb4 ;
-CREATE TABLE `hibernate_sequence` (
-  `next_val` bigint(20) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `hibernate_sequence`
---
-
-LOCK TABLES `hibernate_sequence` WRITE;
-/*!40000 ALTER TABLE `hibernate_sequence` DISABLE KEYS */;
-INSERT INTO `hibernate_sequence` VALUES (62);
-/*!40000 ALTER TABLE `hibernate_sequence` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `user_book_rate`
 --
 
@@ -72,16 +50,19 @@ DROP TABLE IF EXISTS `user_book_rate`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
  SET character_set_client = utf8mb4 ;
 CREATE TABLE `user_book_rate` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `user_id` bigint(20) NOT NULL,
   `book_asin` bigint(20) NOT NULL,
-  `rate` varchar(45) DEFAULT NULL,
+  `rate` tinyint(5) DEFAULT '0',
+  PRIMARY KEY (`id`),
   UNIQUE KEY `user_id_and_book_asin_unique_index` (`user_id`,`book_asin`),
   UNIQUE KEY `UK6nqqiddw0vme7ikbxsdiqwoh7` (`user_id`,`book_asin`),
+  UNIQUE KEY `id_UNIQUE` (`id`),
   KEY `fk_user_id_idx` (`user_id`),
   KEY `fk_book_asin_idx` (`book_asin`),
   CONSTRAINT `fk_book_asin` FOREIGN KEY (`book_asin`) REFERENCES `books` (`book_asin`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -90,34 +71,8 @@ CREATE TABLE `user_book_rate` (
 
 LOCK TABLES `user_book_rate` WRITE;
 /*!40000 ALTER TABLE `user_book_rate` DISABLE KEYS */;
-INSERT INTO `user_book_rate` VALUES (7,2182718,'5'),(7,7210361,'3'),(9,7210361,'4');
+INSERT INTO `user_book_rate` VALUES (1,7,2182718,1),(2,7,7210361,4),(3,9,2182718,1),(4,9,7210361,4),(5,7,7262833,5);
 /*!40000 ALTER TABLE `user_book_rate` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `user_book_rate_bookasin`
---
-
-DROP TABLE IF EXISTS `user_book_rate_bookasin`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
- SET character_set_client = utf8mb4 ;
-CREATE TABLE `user_book_rate_bookasin` (
-  `user_book_rate_user_id` bigint(20) NOT NULL,
-  `bookasin_user_id` bigint(20) NOT NULL,
-  PRIMARY KEY (`user_book_rate_user_id`,`bookasin_user_id`),
-  UNIQUE KEY `UK_bdlx00ftoiujyofglxjtdvmj7` (`bookasin_user_id`),
-  CONSTRAINT `FK7csfgmlqnnho0s1a56jonnf5x` FOREIGN KEY (`bookasin_user_id`) REFERENCES `user_book_rate` (`user_id`),
-  CONSTRAINT `FKg3jv74pa3chhy2xt66e47nsfq` FOREIGN KEY (`user_book_rate_user_id`) REFERENCES `user_book_rate` (`user_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `user_book_rate_bookasin`
---
-
-LOCK TABLES `user_book_rate_bookasin` WRITE;
-/*!40000 ALTER TABLE `user_book_rate_bookasin` DISABLE KEYS */;
-/*!40000 ALTER TABLE `user_book_rate_bookasin` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -146,7 +101,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (7,'sefa','oduncuoglu','sefaoduncuoglu@gmail.com','2019-06-15 16:56:36','2019-06-15 16:56:36'),(8,'sefa2','asd','sefaoduncuoglu2@gmail.com','2019-06-15 23:15:32','2019-06-16 16:12:16'),(9,'sefa3','oduncuoglu3','sefaoduncuoglu3@gmail.com','2019-06-16 10:27:31','2019-06-16 10:27:31'),(10,'sefa4','oduncuoglu4','sefaoduncuoglu4@gmail.com','2019-06-16 10:29:21','2019-06-16 10:29:21');
+INSERT INTO `users` VALUES (7,'sefa','oduncuoglu','sefaoduncuoglu@gmail.com','2019-06-15 16:56:36','2019-06-15 16:56:36'),(9,'sefa3','oduncuoglu3','sefaoduncuoglu3@gmail.com','2019-06-16 10:27:31','2019-06-16 10:27:31'),(10,'sefa4','oduncuoglu4','sefaoduncuoglu4@gmail.com','2019-06-16 10:29:21','2019-06-16 10:29:21'),(62,'sefa6','oduncuoglu6','sefaoduncuoglu6@gmail.com','2019-06-18 13:02:09','2019-06-18 13:02:09'),(63,'sefa7','oduncuoglu7','sefaoduncuoglu7@gmail.com','2019-06-18 13:08:44','2019-06-18 13:08:44');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -159,4 +114,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-06-17 22:08:44
+-- Dump completed on 2019-06-18 13:15:03
