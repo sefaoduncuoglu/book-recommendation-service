@@ -73,14 +73,14 @@ public class BookController {
      */
     @PostMapping(value = "/book", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
-    public ResponseEntity createBook(@Valid @RequestBody Book bookData)
+    public ResponseEntity<BookResource> createBook(@Valid @RequestBody Book bookData)
             throws ResourceAlreadyExistsException {
 
         if (bookRepository.existsById(bookData.getASIN())) {
             throw new ResourceAlreadyExistsException("Book Already Exists!");
         }
 
-        return ResponseEntity.ok().body(bookRepository.save(bookData));
+        return ResponseEntity.ok().body(getBookResource(bookRepository.save(bookData)));
     }
 
 
@@ -93,7 +93,7 @@ public class BookController {
      * @throws ResourceNotFoundException the resource not found exception
      */
     @PutMapping(value = "/book", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<String> updateBook(
+    public ResponseEntity<BookResource> updateBook(
             @RequestParam("bookASIN") Long bookASIN, @Valid @RequestBody Book bookData)
             throws ResourceNotFoundException {
 
@@ -106,7 +106,7 @@ public class BookController {
         book.setAuthor(bookData.getAuthor());
         book.setGenre(bookData.getGenre());
 
-        return ResponseEntity.ok().body(bookRepository.save(book).toString());
+        return ResponseEntity.ok().body(getBookResource(bookRepository.save(book)));
     }
 
     /**

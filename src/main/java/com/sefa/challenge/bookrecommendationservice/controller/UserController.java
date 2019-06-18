@@ -64,8 +64,8 @@ public class UserController {
      */
     @PostMapping(value = "/user", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
-    public ResponseEntity createUser(@Valid @RequestBody User userData) {
-        return ResponseEntity.ok().body(userRepository.save(userData));
+    public ResponseEntity<UserResource> createUser(@Valid @RequestBody User userData) {
+        return ResponseEntity.ok().body(getUserResource(userRepository.save(userData)));
     }
 
     /**
@@ -77,7 +77,7 @@ public class UserController {
      * @throws ResourceNotFoundException the resource not found exception
      */
     @PutMapping(value = "/user", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<User> updateUser(
+    public ResponseEntity<UserResource> updateUser(
             @RequestParam("userId") Long userId, @Valid @RequestBody User userDetails)
             throws ResourceNotFoundException {
 
@@ -91,7 +91,7 @@ public class UserController {
         user.setFirstName(userDetails.getFirstName());
         user.setUpdatedAt(new Date());
 
-        return ResponseEntity.ok().body(userRepository.save(user));
+        return ResponseEntity.ok().body(getUserResource(userRepository.save(user)));
     }
 
     /**
