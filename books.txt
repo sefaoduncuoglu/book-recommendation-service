@@ -1,0 +1,1100 @@
+ASIN;Title;Auther;Genre
+2182718;Improve Your Bowls;Tony Allcock;Sports & Outdoors
+7210361;Asthma-Free Naturally: Everything You Need to Know About Taking Control of Your Asthma--Featuring the Buteyko Breathing Method Suitable for Adults and Children;Patrick G. McKeown;Health, Fitness & Dieting
+7262833;Seeing Red;Graham Poll;Biographies & Memoirs
+7444397;Dare to Dream: Life as One Direction;One Direction;Teen & Young Adult
+26533839;Responsible Driving Student Edition, Softcover;McGraw-Hill Education;Test Preparation
+28600673;The Unofficial Guide to Ethnic Cuisine and Dining in America;Eve Zibart;Travel
+28631188;Webster's New World College Dictionary, Indexed Fourth Edition;The Editors of the Webster's New World Dictionaries;Reference
+28639235;Complete Idiot's Guide to Looking and Feeling Younger;Hattie;Health, Fitness & Dieting
+28644611;The Complete Idiot's Guide to the NBA;Steven D. Strauss;Sports & Outdoors
+28740173;The Emotional Life of the Toddler;Alicia F. Lieberman;Self-Help
+29290406;Science And Human Behavior;B.F Skinner;Medical Books
+30462282;Holt Science & Technology: Student Edition Physical Science 2007;RINEHART AND WINSTON HOLT;Teen & Young Adult
+60007788;Finding Fish: A Memoir;Antwone Q. Fisher;Humor & Entertainment
+60014105;Blindsided: Lifting a Life Above Illness: A Reluctant Memoir;Richard M. Cohen;Health, Fitness & Dieting
+60084294;When Children Grieve: For Adults to Help Children Deal with Death, Divorce, Pet Loss, Moving, and Other Losses;John W. James;Self-Help
+60086521;Hitler's Daughter (Bccb Blue Ribbon Fiction Books (Awards));Jackie French;Children's Books
+60099453;Merry Christmas, Amelia Bedelia (I Can Read Level 2);Peggy Parish;Children's Books
+60158158;Marcos Dynasty;Sterling Seagrave;History
+60164700;Encyclopedia of Bad Taste;Jane Stern;Reference
+60283262;If You Give a Pig a Party;Laura Numeroff;Children's Books
+60394064;Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health (Revised Edition);Toni Weschler;Health, Fitness & Dieting
+60505915;The True Believer: Thoughts on the Nature of Mass Movements (Perennial Classics);Eric Hoffer;Health, Fitness & Dieting
+60515236;Fragile Things: Short Fictions and Wonders;Neil Gaiman;Literature & Fiction
+60530898;Where's the Poop?;Julie Markes;Children's Books
+60586133;Three Wishes: A Novel;Liane Moriarty;Literature & Fiction
+60630353;Who Wrote the Bible?;Richard Elliott Friedman;Reference
+60674407;The Illustrated World's Religions: A Guide to Our Wisdom Traditions;Huston Smith;Reference
+60724293;The Collected Poetry of Nikki Giovanni: 1968-1998;Nikki Giovanni;Literature & Fiction
+60731338;Freakonomics: A Rogue Economist Explores the Hidden Side of Everything;Steven D. Levitt;Humor & Entertainment
+60750715;George Balanchine: The Ballet Maker (Eminent Lives);Robert Gottlieb;Biographies & Memoirs
+60760028;Emily Post's The Etiquette Advantage in Business: Personal Skills for Professional Success, Second Edition;Peggy Post;Business & Money
+60766263;Night of the Soul Stealer (The Last Apprentice, Book 3);Joseph Delaney;Teen & Young Adult
+60777508;Devotional Classics: Revised Edition: Selected Readings for Individuals and Groups;Zondervan;History
+60812451;Tao Te Ching;Laozi;Politics & Social Sciences
+60815981;The Other Bible;Willis Barnstone;Christian Books & Bibles
+60844094;A Hard Day's Write: The Stories Behind Every Beatles Song;Steve Turner;Arts & Photography
+60874503;On Boxing;Joyce Carol Oates;Sports & Outdoors
+60925183;Is It Hot in Here or Is It Me?: Personal Look at the Facts, Fallacies, and Feelings of Menopause, A;Gayle Sand;Health, Fitness & Dieting
+60928972;Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You;Susan Forward;Self-Help
+60935472;Old Yeller (Perennial Classics);Fred Gipson;Literature & Fiction
+60936770;The Cartoon Guide to Chemistry (Cartoon Guide Series);Larry Gonick;Comics & Graphic Novels
+60937254;The Divine Milieu (Perennial Classics);Pierre Teilhard de Chardin;Politics & Social Sciences
+60952199;Everybody Loves Meatloaf: More Than 100 Recipes for Loaves and Fixings;Melanie Barnard;Cookbooks, Food & Wine
+60955589;Eternal Echoes: Celtic Reflections on Our Yearning to Belong;John O'Donohue;Religion & Spirituality
+60963972;She: Understanding Feminine Psychology;Robert A. Johnson;Medical Books
+60974176;The Machine That Changed the World : The Story of Lean Production;James P. Womack;Engineering & Transportation
+61011703;Postcards from France;Megan McNeill Libby;Teen & Young Adult
+61092207;The Bartender's Bible: 1001 Mixed Drinks and Everything You Need to Know to Set Up Your Bar;Gary Regan;Cookbooks, Food & Wine
+61139009;Geek Chic: The Zoey Zone (Geek Chic (Quality));Margie Palatini;Humor & Entertainment
+61149888;PreFab Now;James Grayson Trulove;Arts & Photography
+61193119;These Are My Confessions;Joy King;Romance
+61228036;A Wedding Like No Other: Inspiration for Creating a Unique, Personal, and Unforgettable Celebration;Peggy Post;Crafts, Hobbies & Home
+61231770;Shadow of the Silk Road (P.S.);Colin Thubron;Travel
+61233943;The Red Dragon & The West Wind: The Winning Guide to Official Chinese & American Mah-Jongg;Tom Sloper;Humor & Entertainment
+61239216;The End of Days: Armageddon and Prophecies of the Return (Earth Chronicles);Zecharia Sitchin;Science & Math
+61245089;Halfway to the Grave (Night Huntress, Book 1);Jeaniene Frost;Romance
+61373958;Bind, Torture, Kill: The Inside Story of BTK, the Serial Killer Next Door;Roy Wenzl;Biographies & Memoirs
+61379271;The Wars of Gods and Men: Book III of the Earth Chronicles (The Earth Chronicles);Zecharia Sitchin;Science & Math
+61448788;Gone;Michael Grant;Teen & Young Adult
+61582417;The First Man in Rome (Masters of Rome);Colleen McCullough;Literature & Fiction
+61625981;The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul;Mario Beauregard;Religion & Spirituality
+61628352;Devotion: A Memoir;Dani Shapiro;Biographies & Memoirs
+61698954;Surviving an Eating Disorder: Strategies for Family and Friends;Michele Siegel;Self-Help
+61703087;Prey;Michael Crichton;Mystery, Thriller & Suspense
+61714577;Nick Knight;Nick Knight;Humor & Entertainment
+61725900;The Official CIA Manual of Trickery and Deception;H. Keith Melton;History
+61775932;The Templars: The History and the Myth: From Solomon's Temple to the Freemasons;Michael Haag;Religion & Spirituality
+61785660;Bloodline (Sigma Force);James Rollins;Mystery, Thriller & Suspense
+61829617;Fire on the Mountain: The True Story of the South Canyon Fire;John N. Maclean;Science & Math
+61946486;Kicking Up Dirt: A True Story of Determination, Deafness, and Daring;Ashley Fiolek;Sports & Outdoors
+61960780;The Lost Beatles Photographs: The Bob Bonis Archive, 1964-1966;Larry Marion;Humor & Entertainment
+61991074;Innocent Blood: The Order of the Sanguines Series;James Rollins;Mystery, Thriller & Suspense
+62003224;How to Be Black;Baratunde Thurston;Humor & Entertainment
+62019058;The Last Viking (Viking II);Sandra Hill;Romance
+62019236;Wet & Wild (Viking II);Sandra Hill;Romance
+62019503;Dark Legend (Dark Series);Christine Feehan;Romance
+62060090;Champions of Breakfast (Cold Cereal Saga);Adam Rex;Children's Books
+62073508;Murder on the Orient Express: A Hercule Poirot Mystery (Hercule Poirot Mysteries);Agatha Christie;Mystery, Thriller & Suspense
+62074407;Parker Pyne Investigates: A Parker Pyne Collection;Agatha Christie;Mystery, Thriller & Suspense
+62110624;Pete the Cat Saves Christmas;Eric Litwin;Children's Books
+62110721;Pete the Cat: Pete at the Beach (My First I Can Read);James Dean;Children's Books
+62113321;The Happiest Baby Guide to Great Sleep: Simple Solutions for Kids from Birth to 5 Years;Harvey Karp;Parenting & Relationships
+62116916;Blood of Dragons: Volume Four of the Rain Wilds Chronicles;Robin Hobb;Science Fiction & Fantasy
+62192027;Wish You Happy Forever: What China's Orphans Taught Me About Moving Mountains;Jenny Bowen;Parenting & Relationships
+62221337;I Love It When You Smile;Sam McBratney;Children's Books
+62228323;The Kid Stays in the Picture: A Notorious Life;Robert Evans;Biographies & Memoirs
+62237101;Hunting Shadows: An Inspector Ian Rutledge Mystery (Inspector Ian Rutledge Mysteries);Charles Todd;Mystery, Thriller & Suspense
+62241478;Until I Say Good-Bye: My Year of Living with Joy;Susan Spencer-Wendel;Biographies & Memoirs
+62241753;Get the Guy: Learn Secrets of the Male Mind to Find the Man You Want and the Love You Deserve;Matthew Hussey;Self-Help
+62259407;Pleasantville (Jay Porter Series);Attica Locke;Mystery, Thriller & Suspense
+62267418;Tibetan Peach Pie: A True Account of an Imaginative Life;Tom Robbins;Biographies & Memoirs
+62270818;Curiosity House: The Shrunken Head;Lauren Oliver;Children's Books
+62275496;Dorothy L. Sayers: The Complete Stories;Dorothy L. Sayers;Mystery, Thriller & Suspense
+62280201;Jingo: A Novel of Discworld;Terry Pratchett;Science Fiction & Fantasy
+62282751;The Big, Bad Book of Botany: The World's Most Fascinating Flora;Michael Largo;Humor & Entertainment
+62283251;Creativity: The Psychology of Discovery and Invention;Mihaly Csikszentmihalyi;Self-Help
+62287885;A Replacement Life: A Novel (P.S.);Boris Fishman;Literature & Fiction
+62293192;Three Souls: A Novel (P.S.);Janie Chang;Literature & Fiction
+62307568;Dark Invasion: 1915: Germany's Secret War and the Hunt for the First Terrorist Cell in America;Howard Blum;Biographies & Memoirs
+62320521;Magonia;Maria Dahvana Headley;Teen & Young Adult
+62328476;Dark Matter and the Dinosaurs: The Astounding Interconnectedness of the Universe;Lisa Randall;Science & Math
+62333771;A Big Heart Open to God: A Conversation with Pope Francis;Pope Francis;Christian Books & Bibles
+62342983;Hockey Confidential: Inside Stories from People Inside The Game;Bob McKenzie;Sports & Outdoors
+62345842;Models of Influence: 50 Women Who Reset the Course of Fashion;Nigel Barker;Humor & Entertainment
+62351559;Zeroes: A Novel;Chuck Wendig;Mystery, Thriller & Suspense
+62353241;Your New Prime: 30 Days to Better Sex, Eternal Strength, and a Kick-Ass Life After 40;Craig Cooper;Health, Fitness & Dieting
+62363891;Chasing Jillian: A Love and Football Novel;Julie Brannagh;Romance
+62379194;Starscape: Andromedan Dark: Book One;Ian Douglas;Science Fiction & Fantasy
+62380443;One Hundred Years of Solitude slipcased edition;Gabriel Garcia Marquez;Science Fiction & Fantasy
+62385836;Shuffle and Deal: 50 Classic Card Games for Any Number of Players;Tara Gallagher;Science Fiction & Fantasy
+62386247;A Pattern of Lies: A Bess Crawford Mystery (Bess Crawford Mysteries);Charles Todd;Mystery, Thriller & Suspense
+62507567;The Thirteen Original Clan Mothers: Your Sacred Path to Discovering the Gifts, Talents, and Abilities of the Feminine Through the Ancient Teachings of the Sisterhood;Jamie Sams;Religion & Spirituality
+62508342;The Tibetan Book of Living and Dying: The Spiritual Classic & International Bestseller: 20th Anniversary Edition;Sogyal Rinpoche;Self-Help
+64451003;The Big Dipper (Let's-Read-and-Find-Out Science 1);Franklyn M. Branley;Science & Math
+64462234;Seymour Simon's Book of Trains;Seymour Simon;Engineering & Transportation
+70051933;Principles of Child Neurology;Bruce O. Berg;Health, Fitness & Dieting
+70390207;Understanding Interest Rate Swaps;Mary Ludwig;Business & Money
+70592187;The Marlinspike Sailor;Hervey Garrett Smith;Engineering & Transportation
+71341455;Half a Wing, Three Engines and a Prayer: B-17s over Germany;Brian O'Neill;Travel
+71375252;Land Development Handbook (Handbook);The Dewberry Companies;Law
+71376747;Low Voltage Wiring: Security/Fire Alarm Systems;Terry Kennedy;Computers & Technology
+71381392;The No-Cry Sleep Solution: Gentle Ways to Help Your Baby Sleep Through the Night;Elizabeth Pantley;Parenting & Relationships
+71387099;The Living Trust : The Failproof Way to Pass Along Your Estate to Your Heirs;Henry Abts;Law
+71420398;A Cruising Guide to Puget Sound and the San Juan Islands: Olympia to Port Angeles;Migael Scherer;Engineering & Transportation
+71421300;Teach Yourself Writing Crime Fiction;Lesley Adamson;Mystery, Thriller & Suspense
+71453873;Easy French Step-by-Step;Myrna Bell Rochester;Reference
+71461078;McGraw-Hill's Dictionary of American Slang and Colloquial Expressions: The Most Up-to-Date Reference for the Nonstandard Usage, Popular Jargon, and Vulgarisms of Contempos (McGraw-Hill ESL References);Richard Spears;Reference
+71466592;Instant Cashflow (Instant Success);Bradley Sugars;Business & Money
+71475249;Building Strip-Planked Boats;Nick Schade;Engineering & Transportation
+71487816;Schaum's Outline of Fluid Mechanics (Schaum's Outlines);Merle Potter;Engineering & Transportation
+71497374;The ULTIMATE Tesla Coil Design and Construction Guide;Mitch Tilbury;Science & Math
+71498508;Oracle Database 11g SQL (Oracle Press);Jason Price;Computers & Technology
+71600639;10-Minute Toughness: The Mental Training Program for Winning Before the Game Begins;Jason Selk;Reference
+71613765;McGraw-Hill's Top 50 Skills for a Top Score: ACT Math;Brian Leaf;Test Preparation
+71615903;McGraw-Hill's Chinese Illustrated Dictionary: 1,500 Essential Words in Chinese Script and Pinyin lay the foundation of your language learning;Live ABC;Travel
+71622489;Transients in Electrical Systems: Analysis, Recognition, and Mitigation;J.C. Das;Business & Money
+71623957;Ductile Design of Steel Structures, 2nd Edition;Michel Bruneau;Engineering & Transportation
+71627103;The Fertility Diet: Groundbreaking Research Reveals Natural Ways to Boost Ovulation and Improve Your Chances of Getting Pregnant;Jorge Chavarro;Parenting & Relationships
+71703268;PICAXE Microcontroller Projects for the Evil Genius;Ron Hackett;Computers & Technology
+71745769;Lange Q&A Surgical Technology Examination, Sixth Edition (Lange Q&A Allied Health);Carolan Sherman;Medical Books
+71750177;Perfecting Your English Pronunciation with DVD;Susan Cameron;Reference
+71753680;5 Steps to a 5 500 AP English Language Questions to Know by Test Day (5 Steps to a 5 on the Advanced Placement Examinations Series);Allyson Ambrose;Test Preparation
+71756167;Perfect Phrases for Conflict Resolution: Hundreds of Ready-to-Use Phrases for Encouraging a More Productive and Efficient Work Environment (Perfect Phrases Series);Lawrence Polsky;Parenting & Relationships
+71761233;Pediatrics PreTest Self-Assessment And Review, Thirteenth Edition;Robert Yetman;Test Preparation
+71768858;Oracle Database 11g & MySQL 5.6 Developer Handbook (Oracle Press);Michael McLaughlin;Computers & Technology
+71769854;Hinduism--An Introduction: A Teach Yourself Guide (Teach Yourself: General Reference);Owen Cole;Religion & Spirituality
+71770585;Airport Systems, Second Edition: Planning, Design and Management;Richard de Neufville;Engineering & Transportation
+71771816;General Aviation Law 3/E;Jerry Eichenberger;Law
+71775307;Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition;Kerry Patterson;Politics & Social Sciences
+71781153;McGraw-Hill's SSAT/ISEE: Secondary School Admission Test, Independent School Entrance Exam;Nicholas Falletta;Test Preparation
+71789235;Katzung & Trevor's Pharmacology Examination and Board Review,10th Edition (Katzung & Trevor's Pharmacology Examination & Board Review);Anthony Trevor;Medical Books
+71799680;The TAB Guide to DIY Welding: Hands-on Projects for Hobbyists, Handymen, and Artists;Jackson Morley;Engineering & Transportation
+71804633;Coaching for Breakthrough Success: Proven Techniques for Making Impossible Dreams Possible;Jack Canfield;Business & Money
+71809201;McGraw-Hill's ASVAB, 3rd Edition: Strategies + 4 Practice Tests;Dr. Janet Wall;Test Preparation
+71809341;QuickBooks 2013 The Guide (QuickBooks: The Official Guide);Leslie Capachietti;Computers & Technology
+71810102;What the Plus!: Google+ for the Rest of Us;Guy Kawasaki;Computers & Technology
+71817700;Lean Healthcare Deployment and Sustainability;Mark L. Dean;Medical Books
+71821589;Raspberry Pi Projects for the Evil Genius;Donald Norris;Engineering & Transportation
+71824413;McGraw-Hill Education MCAT 2 Full-length Practice Tests 2015, Cross-Platform Edition;George Hademenos;Test Preparation
+71825053;Basic and Clinical Pharmacology 13 E;Bertram Katzung;Medical Books
+71826351;Katzung & Trevor's Pharmacology Examination and Board Review,11th Edition (Katzung & Trevor's Pharmacology Examination & Board Review);Anthony Trevor;Test Preparation
+71828982;Schaum's Outline of French Grammar;Mary Crocker;Reference
+71829237;OCA Oracle Database 12c Installation and Administration Exam Guide (Exam 1Z0-062) (Oracle Press);John Watson;Computers & Technology
+71831355;Practice Makes Perfect Complete Spanish All-in-One;Gilda Nissenberg;Reference
+71831932;McGraw-Hill Education SAT 2015 (Mcgraw Hill's Sat);Christopher Black;Test Preparation
+71834621;LANGE Radiography Review Flashcards;D.A. Saia;Medical Books
+71836144;McGraw-Hill Education 500 Review Questions for the MCAT: Biology;Robert Stewart;Test Preparation
+71839763;CCFP Certified Cyber Forensics Professional All-in-One Exam Guide;Chuck Easttom;Computers & Technology
+71841393;McGraw-Hill Education 500 Review Questions for the MCAT: Behavioral Sciences;Koni S. Christensen;Test Preparation
+71846611;McGraw-Hill Education Preparation for the GED® Test with DVD-ROM;Editors of McGraw-Hill Education;Test Preparation
+72118490;The Internet Kids & Family Yellow Pages, 1999 Edition;Jean Armour Polly;Computers & Technology
+72129441;Build Your Own PC Pocket Reference;Stephen J. Bigelow;Computers & Technology
+72253517;Oracle Database 10g: The Complete Reference (Osborne ORACLE Press Series);Kevin Loney;Computers & Technology
+72319585;Health Education and Health Promotion: Learner-Centered Instructional Strategies;Jerrold S Greenberg;Health, Fitness & Dieting
+72556420;Exercise Physiology: Human Bioenergetics and Its Applications;George Brooks;Medical Books
+72557141;Ballet Basics;Sandra Noll Hammond;Humor & Entertainment
+72844035;Basic Statistics for the Health Sciences;Jan Kuzma;Medical Books
+72909382;Economic Botany: Plants in our World;Beryl Simpson;Crafts, Hobbies & Home
+73046213;Real Estate Principles: A Value Approach;David Ling;Business & Money
+73378305;Vander's Human Physiology: The Mechanisms of Body Function, 13th Edition;Eric Widmaier;Medical Books
+73397857;Construction Contracts;Jimmie Hinze;Law
+73405388;Understanding and Applying Medical Anthropology;Peter Brown;Politics & Social Sciences
+73517852;Principles of Microeconomics;Robert Frank;Business & Money
+73521477;Basic Statistics for Business and Economics;Douglas Lind;Science & Math
+73524964;Employment Law for Business;Dawn Bennett-Alexander;Law
+73534870;Introduction to MATLAB for Engineers;William Palm III;Computers & Technology
+77331249;Microsoft Office Access 2010: A Lesson Approach, Complete;John Carter;Computers & Technology
+77379810;Launching the Imagination: A Guide to Three-Dimensional Design;Mary Stewart;Engineering & Transportation
+77400232;The O'Leary Series: Microsoft Office Access 2013, Introductory;Linda O'Leary;Computers & Technology
+77494261;Theatre: Brief Version, 10th Edition;Robert Cohen;Humor & Entertainment
+77614046;Intermediate Accounting with Annual Report;J. David Spiceland;Computers & Technology
+77861043;Essentials of Marketing: A Marketing Strategy Planning Approach;Jr., William Perreault;Business & Money
+77862201;International Accounting;Timothy Doupnik;Business & Money
+78021391;Contemporary Nutrition: A Functional Approach;Gordon Wardlaw;Medical Books
+78028485;Consumer Health: A Guide To Intelligent Decisions;Stephen Barrett;Reference
+78028647;Drugs, Society, and Human Behavior;Carl Hart;Health, Fitness & Dieting
+78036917;Communication Research: Asking Questions, Finding Answers;Joann Keyton;Reference
+78038367;How to Think About Weird Things: Critical Thinking for a New Age;Theodore Schick;Politics & Social Sciences
+78263263;Glencoe Health, Student Edition;McGraw-Hill Education;Teen & Young Adult
+78616468;Food for Today: Student Activity Manual;Helen Kowtaluk;Teen & Young Adult
+78690706;Culinary Essentials, Student Edition;Johnson & Wales;Parenting & Relationships
+78774055;Teen Health, Course 1, Student Edition;McGraw-Hill Education;Health, Fitness & Dieting
+78775140;The American Vision: Modern Times, Student Edition (UNITED STATES HISTORY (HS));McGraw-Hill Education;Teen & Young Adult
+78807239;Chemistry: Concepts & Applications, Student Edition;McGraw-Hill Education;Children's Books
+80408230;Skin Tumors of the Dog & Cat (Pergamon Veterinary Handbook Series);Frances S. Shofer;Medical Books
+80977529;Radar and ARPA Manual, Third Edition: Radar, AIS and Target Tracking for Marine Radar Users;Alan G. Bole;Engineering & Transportation
+91736048;Kuwait, Vanguard of the Gulf;Peter Mansfield;History
+113310595;Managing Successful Projects with PRINCE2 2009 Edition Manual;Office of Government Commerce;Reference
+113313551;Passing Your Itil Foundation Exam (Best Management Practice);Christian F. Nissen;Computers & Technology
+120885301;Introduction to Marine Biogeochemistry, Second Edition;Susan Libes;Science & Math
+122947576;Table of Integrals, Series, and Products, Sixth Edition;I. S. Gradshteyn;Science & Math
+123742609;An Introduction to Parallel Programming;Peter Pacheco;Computers & Technology
+123869226;Private Security and the Law, Fourth Edition;Charles Nemeth JD  Ph.D.  LL.M;Law
+123876931;Pipeline Rules of Thumb Handbook, Eighth Edition: A Manual of Quick, Accurate Solutions to Everyday Pipeline Engineering Problems;E.W. McAllister;Engineering & Transportation
+123919274;Intermolecular and Surface Forces, Third Edition: Revised Third Edition;Jacob N. Israelachvili;Engineering & Transportation
+123973082;General Aviation Aircraft Design: Applied Methods and Procedures;Snorri Gudmundsson;Engineering & Transportation
+124051626;LTE-Advanced: A Practical Systems Approach to Understanding 3GPP LTE Releases 10 and 11 Radio Access Technologies;Sassan Ahmadi;Crafts, Hobbies & Home
+125080808;Anionic Polymerization: Principles and Practice;Maurice Morton;Science & Math
+126298106;Astronomical Optics, Second Edition;Daniel J. Schroeder;Science & Math
+130264652;Supply Chain Management: Strategy, Planning and Operations;Sunil Chopra;Business & Money
+130267457;Activity Workbook to accompany Side By Side, Book 1;Steven J. Molinsky;Test Preparation
+130612286;Microsoft Word 2002 Made Easy;Katie Layman;Business & Money
+130646695;Sun Certified Network Administrator for Solaris 8 Operating Environment Study Guide;Rick Bushnell;Computers & Technology
+130652431;Applied Partial Differential Equations: With Fourier Series and Boundary Value Problems, 4th Edition;Richard Haberman;Science & Math
+130990876;Essentials for Today's Nursing Assistant, Special Edition;Peggy A. Grubbs RN  BSN;Medical Books
+131140140;Business Mathematics (9th Edition);Nelda R. Roueche;Business & Money
+131180118;Culinary Fundamentals;The American Culinary Federation;Cookbooks, Food & Wine
+131206680;Gas Dynamics (3rd Edition);James E.A. John;Engineering & Transportation
+131867164;Core Web Application Development with PHP and MySQL;Marc Wandschneider;Computers & Technology
+131933884;The Globe Encompassed: The Age of European Discovery (1500 to 1700);Glenn J. Ames;History
+132336995;Understanding Movies, 11th Edition;Louis Giannetti;Humor & Entertainment
+132438496;A History of Psychology: From Antiquity to Modernity;Thomas Leahey;Medical Books
+132685752;Language Arts: Patterns of Practice (8th Edition);Gail E. Tompkins;Reference
+132705842;Procedures in the Justice System (10th Edition);Cliff Roberson;Law
+132726777;Corrections in America: An Introduction (13th Edition);Harry E. Allen;Law
+132898357;Mathematics for Business (10th Edition);Stanley A. Salzman;Business & Money
+132912716;Longman Academic Writing Series 2: Paragraphs (3rd Edition);Ann Hogue;Reference
+132936208;Pearson Reviews & Rationales: Child Health Nursing with Nursing Reviews & Rationales (3rd Edition);MaryAnn Hogan;Test Preparation
+132956039;Wills, Trusts, and Estates Administration (4th Edition);Suzan D Herskowitz;Law
+133026922;High-Acuity Nursing (6th Edition);Kathleen Dorman Wagner RN  MSN  CS;Medical Books
+133041948;Principles of Language Learning and Teaching (6th Edition);H. Douglas Brown;Politics & Social Sciences
+133045994;Pharmacology, 3rd Edition;MaryAnn Hogan;Medical Books
+133050696;Management Information Systems: Managing the Digital Firm, 13th Edition;Kenneth C. Laudon;Business & Money
+133143864;The FFT: Fundamentals and Concepts;Robert W. Ramirez;Science & Math
+133178579;Calculus: Graphical, Numerical, Algebraic;Ross L. Finney;Teen & Young Adult
+133254224;Developing Management Skills Plus MyManagementLab with Pearson eText -- Access Card Package (9th Edition);David A. Whetten;Business & Money
+133349330;GO! with Microsoft Word 2013 Brief;Shelley Gaskin;Computers & Technology
+133351912;A Teacher's Pocket Guide to School Law (3rd Edition) (Allyn & Bacon Educational Leadership);Nathan L. Essex;Law
+133382257;NorthStar 1: Listening and Speaking, 3rd Edition;Polly Merdinger;Reference
+133458555;On Cooking: A Textbook of Culinary Fundamentals, 5th Edition;Sarah R. Labensky;Business & Money
+133548198;Understanding and Managing Diversity: Readings, Cases, and Exercises (6th Edition);Carol Harvey;Business & Money
+133582736;Starting Out with Python (3rd Edition);Tony Gaddis;Computers & Technology
+133795020;Principles of Marketing (16th Edition) (Newest Edition);Philip T Kotler;Business & Money
+133816737;Handbook of simplified radio, phono, and tape recorder repairs: An illustrated troubleshooting guide;James Edward Keogh;Crafts, Hobbies & Home
+133866653;Arboriculture: Integrated Management of Landscape Trees, Shrubs, and Vines (3rd Edition);Richard W. Harris;Crafts, Hobbies & Home
+133915425;Engineering Mechanics: Statics & Dynamics (14th Edition);Russell C. Hibbeler;Engineering & Transportation
+134426290;Analysis Without Paralysis: 12 Tools to Make Better Strategic Decisions (Paperback) (2nd Edition);Babette E. Bensoussan;Business & Money
+135137829;Construction Scheduling: Principles and Practices (2nd Edition);Jay S. Newitt;Arts & Photography
+136000924;Operational Organic Chemistry (4th Edition);John W. Lehman;Science & Math
+137042019;Technical Analysis Plain and Simple: Charting the Markets in Your Language (3rd Edition);Michael N. Kahn CMT;Business & Money
+137043775;Strategic Risk Taking: A Framework for Risk Management (paperback);Aswath Damodaran;Business & Money
+137085125;The Facebook Era: Tapping Online Social Networks to Market, Sell, and Innovate (2nd Edition);Clara Shih;Computers & Technology
+140067485;The Puzzle Palace: Inside the National Security Agency, America's Most Secret Intelligence Organization;James Bamford;Law
+140094296;The Songlines;Bruce Chatwin;History
+140184643;Tarzan of the Apes;Edgar Rice Burroughs;Literature & Fiction
+140187650;Eichmann in Jerusalem: A Report on the Banality of Evil;Hannah Arendt;Politics & Social Sciences
+140210040;The Enlightenment: An Evaluation of its Assumptions, Attitudes, and Values, Vol. 4 (History of European Thought);Norman Hampson;Politics & Social Sciences
+140291849;Feature Filmmaking at Used-Car Prices: Second Revised Edition;Rick Schmidt;Engineering & Transportation
+140432086;The Wealth of Nations: Books 1-3 (Penguin Classics) (Bks.1-3);Adam Smith;Business & Money
+140434089;The Moonstone (Penguin Classics);Wilkie Collins;Mystery, Thriller & Suspense
+140441123;Prometheus Bound and Other Plays: Prometheus Bound, The Suppliants, Seven Against Thebes, The Persians (Penguin Classics);Philip Vellacott;Mystery, Thriller & Suspense
+140441638;The Upanishads (Penguin Classics);Anonymous;Politics & Social Sciences
+140512543;The Penguin Dictionary of Symbols (Dictionary, Penguin);Jean Chevalier;Politics & Social Sciences
+140513299;The Penguin Historical Atlas of Ancient Rome (Hist Atlas);Chris Scarre;History
+141025387;To the Holy Shrines (Penguin Great Journeys);Richard Burton;Travel
+141192577;The Sonnets and a Lover's Complaint (Hardcover Classics);William Shakespeare;Literature & Fiction
+141439831;Vanity Fair (Penguin Classics);William Makepeace Thackeray;Literature & Fiction
+141441518;The Bible (Penguin Classics);Anonymous;Christian Books & Bibles
+141442085;The Marsh Arabs (Penguin Classics);Wilfred Thesiger;Biographies & Memoirs
+142180475;Love 2.0: Finding Happiness and Health in Moments of Connection;Barbara L. Fredrickson Ph.D.;Health, Fitness & Dieting
+142181072;Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts;Guy Winch Ph.D.;Self-Help
+142401757;Dreamland;Sarah Dessen;Teen & Young Adult
+142402699;Malka;Mirjam Pressler;Teen & Young Adult
+142403873;The Gruffalo;Julia Donaldson;Literature & Fiction
+142414603;Safe at Home (Comeback Kids);Mike Lupica;Children's Books
+142415510;Hush;Jacqueline Woodson;Teen & Young Adult
+142421715;Crossed (Matched);Ally Condie;Teen & Young Adult
+142437220;The Divine Comedy: Volume 1: Inferno (Penguin Classics);Dante Alighieri;Literature & Fiction
+142437522;The Exploration of the Colorado River and Its Canyons (Penguin Classics);John Wesley Powell;Science & Math
+142500267;On the Fringe: Stories;Various;Teen & Young Adult
+143035444;A Treasury of Deception: Liars, Misleaders, Hoodwinkers, and the Extraordinary True Stories of History's Greatest Hoaxes, Fakes and Frauds;Michael Farquhar;Humor & Entertainment
+143036971;Bargaining for Advantage: Negotiation Strategies for Reasonable People 2nd Edition;G. Richard Shell;Business & Money
+143037757;Postwar: A History of Europe Since 1945;Tony Judt;History
+143039024;The Quiet American (Penguin Classics Deluxe Edition);Graham Greene;Literature & Fiction
+143039393;Count Magnus and Other Ghost Stories (The Complete Ghost Stories of M. R. James, Vol. 1);M. R. James;Literature & Fiction
+143113208;The Wages of Destruction: The Making and Breaking of the Nazi Economy;Adam Tooze;Business & Money
+143114514;The Penguin Atlas of Women in the World: Fourth Edition;Joni Seager;Reference
+143115693;The Secret Scripture: A Novel;Sebastian Barry;Literature & Fiction
+143118757;Getting to Yes: Negotiating Agreement Without Giving In;Roger Fisher;Self-Help
+143119796;Think Like a Cat: How to Raise a Well-Adjusted Cat--Not a Sour Puss;Pam Johnson-Bennett;Crafts, Hobbies & Home
+143120328;Malcolm X: A Life of Reinvention;Manning Marable;Biographies & Memoirs
+143122967;Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting (now with Bébé Day by Day: 100 Keys to French Parenting);Pamela Druckerman;Parenting & Relationships
+143124048;How to Create a Mind: The Secret of Human Thought Revealed;Ray Kurzweil;Computers & Technology
+143125761;The Childhood of Jesus: A Novel;J. M. Coetzee;Literature & Fiction
+143126288;Eliot Ness: The Rise and Fall of an American Hero;Douglas Perry;Biographies & Memoirs
+147513200;Dragonbreath #4: Lair of the Bat Monster;Ursula Vernon;Children's Books
+147514940;Fantasy League;Mike Lupica;Children's Books
+147516625;The Marco Effect: A Department Q Novel;Jussi Adler-Olsen;Mystery, Thriller & Suspense
+147517729;The All Souls Trilogy Boxed Set;Deborah Harkness;Mystery, Thriller & Suspense
+151001634;Flowers for Algernon;Daniel Keyes;Science Fiction & Fantasy
+151003076;The Curious Sofa: A Pornographic Work by Ogdred Weary;Ogdred Weary;Comics & Graphic Novels
+151007152;Cautionary Tales for Children;Hilaire Belloc;Comics & Graphic Novels
+152046968;Pacific Crossing;Gary Soto;Children's Books
+152058761;Young Royals Boxed Set: The Tudor Women;Carolyn Meyer;Teen & Young Adult
+152427309;King Bidgood's in the Bathtub;Audrey Wood;Children's Books
+153003804;Diary of Anne Frank;Frances Goodrich;History
+156027321;Life of Pi;Yann Martel;Mystery, Thriller & Suspense
+156028077;A Primer of Chess;Jose R. Capablanca;Teen & Young Adult
+156028158;Odd Girl Speaks Out: Girls Write about Bullies, Cliques, Popularity, and Jealousy;Rachel Simmons;Parenting & Relationships
+156334607;Free to Choose: A Personal Statement;Milton Friedman;Business & Money
+156787334;A Room of One's Own;Virginia Woolf;Literature & Fiction
+159007194;Barbri Bar Review - Civil Procedure, Constitutional Law, Contracts, Criminal Law, Property, Torts, R;Richard J. Conviser;Law
+190230975;Inventing a Christian America: The Myth of the Religious Founding;Steven K. Green;History
+192117491;Mungo Park the African Traveler;Kenneth Lupton;Travel
+192141635;The Oxford Book of English Ghost Stories;Michael Cox;Literature & Fiction
+192801805;Poststructuralism: A Very Short Introduction;Catherine Belsey;Politics & Social Sciences
+192802518;Evolution: A Very Short Introduction;Brian Charlesworth;Science & Math
+192804413;Modernism: A Very Short Introduction;Christopher Butler;Arts & Photography
+192854143;Nietzsche: A Very Short Introduction;Michael Tanner;Biographies & Memoirs
+192893203;Logic: A Very Short Introduction;Graham Priest;Politics & Social Sciences
+194541266;How Languages are Learned 4e (Oxford Handbooks for Language Teachers);Patsy Lightbown;Politics & Social Sciences
+195057554;A History of Stroke: Its Recognition and Treatment;William S. Fields;Health, Fitness & Dieting
+195066650;Native American Architecture;Peter Nabokov;Arts & Photography
+195071018;Eunuchs and Sacred Boundaries in Islamic Society (Studies in Middle Eastern History);Shaun Marmon;Religion & Spirituality
+195099397;Links in the Chain: Shapers of the Jewish Tradition (Oxford Profiles);Naomi Pasachoff;Teen & Young Adult
+195111303;At Home in the Universe: The Search for the Laws of Self-Organization and Complexity;Stuart Kauffman;Science & Math
+195149106;Introduction to Optical Mineralogy;William D. Nesse;Science & Math
+195171071;Guests of God: Pilgrimage and Politics in the Islamic World;Robert R. Bianchi;Religion & Spirituality
+195188195;Mastering Your Adult ADHD: A Cognitive-Behavioral Treatment Program Client Workbook (Treatments That Work);Steven A. Safren;Parenting & Relationships
+195188284;Psychological Injuries: Forensic Assessment, Treatment, and Law (American Psychology-Law Society Series);William J. Koch;Law
+195307143;Polio: An American Story;David M. Oshinsky;Medical Books
+195309057;Mind Race: A Firsthand Account of One Teenager's Experience with Bipolar Disorder (Adolescent Mental Health Initiative);Patrick E. Jamieson;Teen & Young Adult
+195313038;What You Must Think of Me: A Firsthand Account of One Teenager's Experience with Social Anxiety Disorder (Adolescent Mental Health Initiative);Emily Ford;Biographies & Memoirs
+195326970;Gay Marriage: for Better or for Worse?: What We've Learned from the Evidence;William N. Eskridge;Law
+195327063;When a Gene Makes You Smell Like a Fish: ...and Other Amazing Tales about the Genes in Your Body;Lisa Seachrist Chiu;Humor & Entertainment
+195339444;Inhuman Bondage: The Rise and Fall of Slavery in the New World;David Brion Davis;History
+195371372;U.S. International Investment Agreements;Kenneth J Vandevelde;Law
+195391349;Oxford Textbook of Palliative Nursing;Betty R. Ferrell and Nessa Coyle;Self-Help
+195630858;The Origins and Development of Classical Hinduism (Oxford India Paperbacks);A. L. Basham;Religion & Spirituality
+195648943;The Guru Granth Sahib: Canon, Meaning and Authority;Pashaura Singh;Religion & Spirituality
+196360331;The Life of Muhammad;I. Ishaq;Biographies & Memoirs
+198280424;Riches and Renunciation: Religion, Economy, and Society among the Jains (Oxford Studies in Social and Cultural Anthropology);James Laidlaw;Religion & Spirituality
+198393342;Antony and Cleopatra: Oxford School Shakespeare (Oxford School Shakespeare Series);William Shakespeare;Literature & Fiction
+198533713;Plots, Transformations, and Regression: An Introduction to Graphical Methods of Diagnostic Regression Analysis (Oxford Statistical Science Series);A. C. Atkinson;Science & Math
+198539509;The Infinite in the Finite;Alistair Macintosh Wilson;Science & Math
+198556314;Nonequilibrium Phenomena in Polyatomic Gases: Volume 1: Dilute Gases (International Series of Monographs on Chemistry);Frederick R. W. McCourt;Science & Math
+198561954;Molecular Gas Dynamics and the Direct Simulation of Gas Flows (Oxford Engineering Science Series);G. A. Bird;Science & Math
+198708955;God: A Very Short Introduction (Very Short Introductions);John Bowker;Religion & Spirituality
+198718659;Once Upon a Time: A Short History of Fairy Tale;Marina Warner;Literature & Fiction
+198754620;The Age of Em: Work, Love and Life when Robots Rule the Earth;Robin Hanson;Computers & Technology
+199105332;The Holy Land (Ancient World);Peter Connolly;Children's Books
+199226172;Maudsley & Burn's Land Law Cases and Materials;John J. Cartwright;Law
+199246297;Inquiries into Truth and Interpretation (Philosophical Essays of Donald Davidson);Donald Davidson;Reference
+199315728;A Small Greek World: Networks in the Ancient Mediterranean (Greeks Overseas);Irad Malkin;Literature & Fiction
+199315981;The Battle of Midway (Pivotal Moments in American History);Craig L. Symonds;History
+199327556;Politics and Society in Saudi Arabia: The Crucial Years of Development, 1960-1982;Sarah Yizraeli;History
+199334412;Jonas Salk: A Life;Charlotte DeCroes Jacobs;Medical Books
+199384452;Ancient Mediterranean Civilizations: From Prehistory to 640 CE;Ralph W. Mathisen;History
+199391084;Pakistan: A New History;Ian Talbot;History
+199540071;A Discourse on the Method (Oxford World's Classics);René Descartes;Politics & Social Sciences
+199540438;The Bodhicaryavatara (Oxford World's Classics);Santideva;Religion & Spirituality
+199543976;The Problem of Evil;Peter van Inwagen;Politics & Social Sciences
+199585822;Oxford Handbook of Nutrition and Dietetics;Joan Gandy;Medical Books
+199586551;Competition Law;Richard Whish;Law
+199600600;The Book of Marvels and Travels (Oxford World's Classics);John Mandeville;Literature & Fiction
+199645205;The Book of Common Prayer: The Texts of 1549, 1559, and 1662 (Oxford World's Classics);Brian Cummings;Christian Books & Bibles
+199665095;Faull and Nikpay: The EU Law of Competition;Jonathan Faull;Law
+199679096;Cases and Materials on Employment Law;Richard Painter;Law
+199696802;Comparative Succession Law: Volume I: Testamentary Formalities;Kenneth G C Reid;Law
+199744505;Why Does College Cost So Much?;Robert B. Archibald;Business & Money
+199753504;The Rise of Mutual Funds: An Insider's View;Matthew P. Fink;Business & Money
+199772665;Unified Protocol for Transdiagnostic Treatment of Emotional Disorders: Therapist Guide (Treatments That Work);David  H. Barlow;Health, Fitness & Dieting
+199794138;What Everyone Needs to Know about Islam;John L. Esposito;Reference
+199812098;Where the Conflict Really Lies: Science, Religion, and Naturalism;Alvin Plantinga;Politics & Social Sciences
+199829527;Making the Social World: The Structure of Human Civilization;John Searle;Politics & Social Sciences
+199927707;Osteoporosis (Oxford American Rheumatology Library);Ronald C. Hamdy;Health, Fitness & Dieting
+199945136;The Language of Bribery Cases (Oxford Studies in Language and Law);Roger W. Shuy;Law
+201524856;Multinational Business Finance;David K. Eiteman;Business & Money
+201539306;Every Parent: A Positive Approach to Children's Behavior;Matthew R. Sanders;Parenting & Relationships
+201702452;The Design and Implementation of the FreeBSD Operating System;Marshall Kirk McKusick;Computers & Technology
+205029396;Mastering Public Speaking (8th Edition);George L. Grice;Reference
+205054188;Medical Sociology (12th Edition);William C. Cockerham;Politics & Social Sciences
+205453422;Learning American Sign Language DVD to accompany Learning American Sign Language - Levels 1 & 2 Beginning and Intermediate, 2nd Edition;Tom L. Humphries;Reference
+205731937;Business Ethics (7th Edition);Richard T DeGeorge;Business & Money
+205810462;Theories of Development: Concepts and Applications;William Crain;Medical Books
+205873472;Art History (5th Edition);Marilyn Stokstad;Arts & Photography
+205912966;Persuasion: Social Influence and Compliance Gaining;Robert H Gass;Politics & Social Sciences
+205968171;Prebles' Artforms Books a la Carte Edition, Prebles' Artforms (11th Edition);Patrick L. Frank;Arts & Photography
+205969062;African Americans: A Concise History, Combined Volume (5th Edition);Darlene Clark Hine;History
+207189005;Cancerproof Your Body;Ross Horne;Health, Fitness & Dieting
+224021230;We Didn't Mean To Go To Sea;Arthur Ransome;Teen & Young Adult
+224025651;Life Blood New Image for Menstruation;Margaret Sheffield;Health, Fitness & Dieting
+224091662;A Life Too Short: The Tragedy of Robert Enke;Ronald Reng;Biographies & Memoirs
+226100456;The Calling of History: Sir Jadunath Sarkar and His Empire of Truth;Dipesh Chakrabarty;Biographies & Memoirs
+226153096;Letters from Africa, 1914-1931;Isak Dinesen;Biographies & Memoirs
+226308820;Euripides III: Heracles, The Trojan Women, Iphigenia among the Taurians, Ion (The Complete Greek Tragedies);Euripides;Literature & Fiction
+226320669;The Fatal Conceit: The Errors of Socialism (The Collected Works of F. A. Hayek);F. A. Hayek;Business & Money
+226321487;My Mother Was a Computer: Digital Subjects and Literary Texts;N. Katherine Hayles;Computers & Technology
+226532291;Iconology: Image, Text, Ideology;W. J. T. Mitchell;Arts & Photography
+226629767;Ramus, Method, and the Decay of Dialogue: From the Art of Discourse to the Art of Reason;Walter J. Ong  S.J.;Politics & Social Sciences
+226780171;Valuing Life: Humanizing the Regulatory State;Cass R. Sunstein;Law
+226870332;General Relativity;Robert M. Wald;Science & Math
+230201539;The Historical Turn in Analytic Philosophy (History of Analytic Philosophy);Erich H. Reck;Politics & Social Sciences
+230340296;Freedom of Contract and Paternalism: Prospects and Limits of an Economic Approach (Perspectives from Social Economics);Péter Cserne;Parenting & Relationships
+230580939;Twins in Society: Parents, Bodies, Space and Talk (Studies in Childhood and Youth);Kate Bacon;Parenting & Relationships
+230618928;The Legacy Family: The Definitive Guide to Creating a Successful Multigenerational Family;Lee Hausner;Parenting & Relationships
+231062974;A History of Housing in New York City;Richard Plunz;Politics & Social Sciences
+231068573;Mercedes in Peace and War: German Automobile Workers, 1903-1945;Bernard P. Bellon;Business & Money
+231110030;Community Practice Skills: Local to Global Perspectives;Dorothy N Gamble;Business & Money
+231119968;The Algerian Civil War;Luis Martinez;History
+231135157;Soldier Dead: How We Recover, Identify, Bury, and Honor Our Military Fallen;Michael Sledge;History
+231151764;Supervision in Social Work;Alfred Kadushin;Politics & Social Sciences
+231152760;Gay Directors, Gay Films?: Pedro Almodóvar, Terence Davies, Todd Haynes, Gus Van Sant, John Waters;Emanuel Levy;Humor & Entertainment
+231153007;A Philosophical Retrospective: Facts, Values, and Jewish Identity (Columbia Themes in Philosophy);Alan Montefiore;Politics & Social Sciences
+231153546;They Wished They Were Honest: The Knapp Commission and New York City Police Corruption;Michael F. Armstrong;Law
+231157096;Sibling Relationships in Childhood and Adolescence: Predictors and Outcomes;Avidan Milevsky;Parenting & Relationships
+231161050;If A, Then B: How the World Discovered Logic;Michael Shenefelt;Politics & Social Sciences
+231171404;Green Capital: A New Perspective on Growth;Christian de Perthuis;Business & Money
+240515595;Basics of Video Lighting;Des Lyver;Arts & Photography
+240800621;Sportscasting (Electronic Media Management);John Hitchcock;Sports & Outdoors
+240800761;Stereo Microphone Techniques;Bruce Bartlett;Crafts, Hobbies & Home
+240814150;Creating Motion Graphics with After Effects: Essential and Advanced Techniques, 5th Edition, Version CS5;Chris Meyer;Computers & Technology
+240815807;Mixing Secrets for  the Small Studio;Mike Senior;Engineering & Transportation
+240817893;Ableton Live 9: Create, Produce, Perform;Keith Robinson;Computers & Technology
+240820428;Getting Started in 3D with Maya: Create a Project from Start to Finish - Model, Texture, Rig, Animate, and Render in Maya;Adam Watkins;Computers & Technology
+252063007;From Humors to Medical Science: A HISTORY OF AMERICAN MEDICINE;John Duffy;Humor & Entertainment
+252078373;The War of 1812: A Forgotten Conflict, Bicentennial Edition;Donald R Hickey;History
+253008654;Prelude to Blitzkrieg: The 1916 Austro-German Campaign in Romania (Twentieth-Century Battles);Michael B. Barrett;History
+253018870;Syria's Democratic Years: Citizens, Experts, and Media in the 1950s (Public Cultures of the Middle East and North Africa);Kevin W. Martin;History
+253217385;Moonlight in Duneland: The Illustrated Story of the Chicago South Shore and South Bend Railroad (Quarry Books);Ronald D. Cohen;Arts & Photography
+253348609;Slavery and the Meetinghouse: The Quakers and the Abolitionist Dilemma, 1820-1865;Ryan P. Jordan;Christian Books & Bibles
+262026775;Distributed Algorithms: An Intuitive Approach;Wan Fokkink;Computers & Technology
+262511096;Zen and the Brain: Toward an Understanding of Meditation and Consciousness;James H. Austin;Religion & Spirituality
+262518511;Programmed Visions: Software and Memory (Software Studies);Wendy Hui Kyong Chun;Computers & Technology
+262518651;Critical Play: Radical Game Design;Mary Flanagan;Computers & Technology
+262525844;Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of                 Life (Life and Mind: Philosophical Issues in Biology and Psychology);Eva Jablonka;Science & Math
+262527804;The Technological Singularity (The MIT Press Essential Knowledge series);Murray Shanahan;Computers & Technology
+262540428;Elbow Room: The Varieties of Free Will Worth Wanting;Daniel C. Dennett;Politics & Social Sciences
+262571234;MPI: The Complete Reference (Vol. 2), Vol. 2 - The MPI-2 Extensions;William Gropp;Computers & Technology
+268017409;The Spirit of Mediaeval Philosophy;Etienne Gilson;Politics & Social Sciences
+268022275;The Anticipatory Corpse: Medicine, Power, and the Care of the Dying (ND Studies in Medical Ethics);Jeffrey P. Bishop;Self-Help
+275947955;Eisenhower Versus Montgomery: The Continuing Debate;G E P Murray;Biographies & Memoirs
+285634119;Warning: When I Am an Old Woman I Shall Wear Purple;Jenny Joseph;Christian Books & Bibles
+292701640;Birds of Belize (Corrie Herring Hooks Series);H. Lee Jones;Science & Math
+292740425;The Story of Big Bend National Park;John Jameson;Travel
+292740654;Gender and Power in Prehispanic Mesoamerica;Rosemary A. Joyce;History
+292741634;Medicine in Mexico: From Aztec Herbs to Betatrons (Texas Pan American);Gordon Schendel;History
+292762976;Modern Architecture in Latin America: Art, Technology, and Utopia (Joe R. and Teresa Lozano Long Series in Latin American and L);Luis E. Carranza;History
+295978031;Cosmopolitan Capitalists: Hong Kong and the Chinese Diaspora at the End of the Twentieth Century;Gary G. Hamilton;History
+299151646;The Healthiest City: Milwaukee and the Politics of Health Reform;Judith W. Leavitt;Travel
+299153843;Low Protein Cookery for Phenylketonuria;Virginia E. Schuett;Health, Fitness & Dieting
+299292347;With the Lapps in the High Mountains: A Woman among the Sami, 1907�E��E1908;Emilie Demant Hatt;Biographies & Memoirs
+300095244;How Democratic is the American Constitution? Second Edition;Robert A. Dahl;Law
+300105967;Jonathan Edwards: A Life;George M. Marsden;History
+300110960;Representing Justice: Invention, Controversy, and Rights in City-States and Democratic Courtrooms (Yale Law Library Series in Legal History and Reference);Judith Resnik;Law
+300122306;Galápagos: The Islands That Changed the World;Paul D. Stewart;History
+300158343;The Public Domain: Enclosing the Commons of the Mind;James Boyle;Law
+300171307;Why Translation Matters (Why X Matters Series);Edith Grossman;Reference
+300172338;Nothing to Hide: The False Tradeoff between Privacy and Security;Daniel J. Solove;Computers & Technology
+300178905;The Clerics of Islam: Religious Authority and Political Power in Saudi Arabia;Nabil Mouline;History
+300179499;The Metropolitan Museum of Art Guide;Thomas P. Campbell;Reference
+300186835;The South China Sea: The Struggle for Power in Asia;Bill Hayton;Law
+300190441;Speer: Hitler's Architect;Martin Kitchen;History
+300196598;Worlds Apart: Poverty and Politics in Rural America, Second Edition;Cynthia M. Duncan;Politics & Social Sciences
+300200676;Eternity's Sunrise: The Imaginative World of William Blake;Leo Damrosch;Literature & Fiction
+300209843;The People's Galleries: Art Museums and Exhibitions in Britain, 1800�E��E1914;Giles Waterfield;Business & Money
+300211104;Sultans of Deccan India, 1500�E��E1700: Opulence and Fantasy;Navina Najat Haidar;Arts & Photography
+306434601;Mathematical Methods in Kinetic Theory;C. Cercignani;Science & Math
+306811960;Lost Over Laos: A True Story of Tragedy, Mystery, and Friendship;Richard Pyle;Arts & Photography
+306813491;Bill Graham Presents: My Life Inside Rock And Out;Bill Graham;Arts & Photography
+306814323;Stargazer: The Life and Times of the Telescope;Fred Watson;Science & Math
+306817527;Comfortably Numb: The Inside Story of Pink Floyd;Mark Blake;Biographies & Memoirs
+306818108;Top of the World: The Inside Story of the Boston Celtics�E��E Amazing One-Year Turnaround to Become NBA Champions;Peter May;Sports & Outdoors
+306821222;Seven Deadly Sins: Settling the Argument Between Born Bad and Damaged Good;Corey Taylor;Biographies & Memoirs
+306822326;A Christmas Far from Home: An Epic Tale of Courage and Survival during the Korean War;Stanley Weintraub;History
+307244989;Fishes: A guide to fresh and salt-water species;Herbert Spencer Zim;Sports & Outdoors
+307264467;Knopf MapGuide: Budapest (Knopf Mapguides);Knopf Guides;Travel
+307269752;The Girl with the Dragon Tattoo (Millennium Series);Stieg Larsson;Mystery, Thriller & Suspense
+307275841;Snuff;Chuck Palahniuk;Romance
+307277887;Darkly Dreaming Dexter;Jeff Lindsay;Mystery, Thriller & Suspense
+307278247;1493: Uncovering the New World Columbus Created;Charles C. Mann;History
+307279081;The Killer of Little Shepherds: A True Crime Story and the Birth of Forensic Science;Douglas Starr;Law
+307341658;Sacred Choices: Thinking Outside the Tribe to Heal Your Spirit;Christel Nani;Self-Help
+307389189;Paprika (Vintage Contemporaries);Yasutaka Tsutsui;Literature & Fiction
+307394913;The Book of General Ignorance;John Mitchinson;Humor & Entertainment
+307395812;Real Cajun: Rustic Home Cooking from Donald Link's Louisiana;Donald Link;Cookbooks, Food & Wine
+307407314;The New Terrarium: Creating Beautiful Displays for Plants and Nature;Tovah Martin;Crafts, Hobbies & Home
+307440850;The 7 Habits of Highly Effective Families;Stephen R. Covey;Parenting & Relationships
+307473546;Hurry Down Sunshine: A Father's Story of Love and Madness;Michael Greenberg;Health, Fitness & Dieting
+307479390;Second Grade Spelling Flashcards (Flashcards Language Arts);Sylvan Learning;Reference
+307479420;Fifth Grade Vocabulary Flashcards (Flashcards Language Arts);Sylvan Learning;Reference
+307592243;My Lucky Life In and Out of Show Business: A Memoir;Dick Van Dyke;Humor & Entertainment
+307635341;Insect Pests;Zim and Fichter;Sports & Outdoors
+307716031;Born Wild: The Extraordinary Story of One Man's Passion for Africa;Tony Fitzjohn;Travel
+307718247;The Worry Solution: Using Breakthrough Brain Science to Turn Stress and Anxiety into Confidence and Happiness;Martin Rossman M.D.;Self-Help
+307742172;The Last Werewolf;Glen Duncan;Literature & Fiction
+307896900;New Super Mario Bros. U: Prima Official Game Guide;Stephen Stratton;Computers & Technology
+307949052;Transformations: 2013 Coelho Calendar (Spanish Edition);Paulo Coelho;Calendars
+307949095;Amar o depender (Spanish Edition);Walter Riso;Self-Help
+307949362;For Discrimination: Race, Affirmative Action, and the Law;Randall Kennedy;Law
+307957721;Hat Box: The Collected Lyrics of Stephen Sondheim;Stephen Sondheim;Humor & Entertainment
+307976084;The Silent Boy (Random House Reader's Circle);Lois Lowry;Teen & Young Adult
+310219043;What's So Amazing About Grace? Study Guide;Phillip Yancey;Christian Books & Bibles
+310240069;Most Important Year in a Woman's Life, The/The Most Important Year in a Man's Life;Robert Wolgemuth;Christian Books & Bibles
+310240646;The Unholy Deception: The Nephilim Return (Nephilim Series Vol. 2);L. A. Marzulli;Religion & Spirituality
+310243149;Boundaries in Marriage;Henry Cloud;Parenting & Relationships
+310267145;How to Have That Difficult Conversation You've Been Avoiding: With Your Spouse, Adult Child, Boss, Coworker, Best Friend, Parent, or Someone You're Dating;Henry Cloud;Parenting & Relationships
+310270227;Basics of Biblical Hebrew: Workbook, 2nd Edition;Gary D. Pratico;Christian Books & Bibles
+310275091;Charts of Biblical Hebrew (ZondervanCharts);Miles V. Van Pelt;Christian Books & Bibles
+310295610;Who Moved the Stone?;Frank Morison;Christian Books & Bibles
+310326273;David Wilkerson: The Cross, the Switchblade, and the Man Who Believed;Gary Wilkerson;Biographies & Memoirs
+310329892;Sex and the Soul of a Woman: How God Restores the Beauty of Relationship from the Pain of Regret;Paula Rinehart;Religion & Spirituality
+310331129;Unveiling Grace: The Story of How We Found Our Way out of the Mormon Church;Lynn K. Wilder;Christian Books & Bibles
+310332362;Twisted Innocence (Moonlighters Series);Terri Blackstock;Mystery, Thriller & Suspense
+310338875;Teen Mom: You're Stronger Than You Think;Tricia Goyer;Parenting & Relationships
+310340780;Wrestling for My Life: The Legend, the Reality, and the Faith of a WWE Superstar;Shawn Michaels;Biographies & Memoirs
+310575516;Help! I'm a Volunteer Youth Worker;Doug Fields;Religion & Spirituality
+310739055;Game Changer;Kirk Cousins;Biographies & Memoirs
+310868254;The Meaning of Marriage Study Guide: A Vision for Married and Single People;Timothy Keller;Christian Books & Bibles
+312089457;Sherlock Holmes: The Major Stories with Contemporary Critical Essays (Bedford Series in History & Culture);Arthur Conan Doyle;Mystery, Thriller & Suspense
+312114826;All You Need Is Ears: The inside personal story of the genius who created The Beatles;George Martin;Humor & Entertainment
+312151225;The Everyday I Ching;Sarah Dening;Religion & Spirituality
+312180810;Des, the Complete Story;Cynthia Orenberg;Medical Books
+312187769;Wing Chun Kung Fu: Traditional Chinese Kung Fu for Self-Defense and Health;Ip Chun;Sports & Outdoors
+312206372;The Climb: Tragic Ambitions on Everest;Anatoli Boukreev;Biographies & Memoirs
+312262922;The Bell Witch: An American Haunting;Brent Monahan;Mystery, Thriller & Suspense
+312321201;P.S. Your Cat Is Dead;James Kirkwood;Humor & Entertainment
+312325002;Encyclopedia Neurotica;Jon Winokur;Reference
+312359799;Real Men Do It Better;Lora Leigh;Romance
+312361815;Five Families: The Rise, Decline, and Resurgence of America's Most Powerful Mafia Empires;Selwyn Raab;Biographies & Memoirs
+312374631;And the Band Played On: Politics, People, and the AIDS Epidemic, 20th-Anniversary Edition;Randy Shilts;Health, Fitness & Dieting
+312382154;Babylon's Ark: The Incredible Wartime Rescue of the Baghdad Zoo;Lawrence Anthony;Science & Math
+312384696;The Gods of Greenwich;Norb Vonnegut;Mystery, Thriller & Suspense
+312420137;Illness as Metaphor and AIDS and Its Metaphors;Susan Sontag;Health, Fitness & Dieting
+312426704;Gate of the Sun;Elias Khoury;Literature & Fiction
+312427565;The Right Stuff;Tom Wolfe;Engineering & Transportation
+312427905;The World Without Us;Alan Weisman;Science & Math
+312429983;Wolf Hall;Hilary Mantel;Literature & Fiction
+312480504;Interpretations of American History, Volume 2: From Reconstruction: Patterns & Perspectives;Francis G. Couvares;History
+312492510;Wipe Clean: Letters (Wipe Clean Learning Books);Roger Priddy;Children's Books
+312556411;Literature and Its Writers: A Compact Introduction to Fiction, Poetry, and Drama;Ann Charters;Literature & Fiction
+312560958;Travels in the Greater Yellowstone;Jack Turner;Travel
+312567073;Carrion Comfort;Dan Simmons;Mystery, Thriller & Suspense
+312590342;The New York Times Will Shortz's Wittiest, Wackiest Crosswords: 225 Puzzles from the Will Shortz Crossword Collection;The New York Times;Humor & Entertainment
+312608950;Rules for My Unborn Son;Walker Lamond;Parenting & Relationships
+312617933;The Hunger Games Companion: The Unauthorized Guide to the Series;Lois H. Gresh;Teen & Young Adult
+312676840;Patterns for College Writing: A Rhetorical Reader and Guide, 12th Edition;Laurie G. Kirszner;Reference
+312925883;Not Without My Daughter;Betty Mahmoody;Politics & Social Sciences
+312939000;B is for Burglar (Kinsey Millhone Alphabet Mysteries, No. 2);Sue Grafton;Mystery, Thriller & Suspense
+312942311;Born of Fire (The League, Book 2);Sherrilyn Kenyon;Romance
+312976275;Hot Six (Stephanie Plum, No. 6) (Stephanie Plum Novels);Janet Evanovich;Romance
+312980140;Seven Up (Stephanie Plum, No. 7) (Stephanie Plum Novels);Janet Evanovich;Romance
+313232199;The Troubled Partnership: A Re-Appraisal of the Atlantic Alliance;Henry A. Kissinger;Politics & Social Sciences
+313335427;Organ Transplantation (Health and Medical Issues Today);David Petechuk;Health, Fitness & Dieting
+313361754;J.R.R. Tolkien: A Biography (Greenwood Biographies);Leslie Ellen Jones;Science Fiction & Fantasy
+314147284;Negotiation and Settlement Advocacy: A Book of Readings (American Casebook Series);Charles Wiggins;Law
+314152210;Gilbert Law Summaries on Evidence;Jon Waltz;Law
+314187979;The Law of Securities Regulation (Hornbook);Thomas Hazen;Law
+314194223;Remedies: Cases, Practical Problems and Exercises, 2d (American Casebook) (American Casebook Series);Russell Weaver;Law
+314277994;Understanding Developments in Cyberspace Law: Leading Lawyers on Examining Privacy Issues, Addressing Security Concerns, and Responding to Recent IT Trends (Inside the Minds);Multiple Authors;Law
+316004855;The New Yankee Workshop Outdoor Projects;Norm Abram;Crafts, Hobbies & Home
+316008249;The Horse Boy: A Memoir of Healing;Rupert Isaacson;Biographies & Memoirs
+316011185;The Olympics: Legendary Sports Events (Matt Christopher Legendary Sports Events);Matt Christopher;Children's Books
+316040932;On Killing: The Psychological Cost of Learning to Kill in War and Society;Dave Grossman;Engineering & Transportation
+316043923;The Hundred Thousand Kingdoms (The Inheritance Trilogy);N. K. Jemisin;Romance
+316070351;Inglourious Basterds: A Screenplay;Quentin Tarantino;Humor & Entertainment
+316072982;Bamboo Blade, Vol. 5;Masahiro Totsuka;Comics & Graphic Novels
+316080209;Ghost Liners: Exploring the World's Greatest Lost Ships;Robert Ballard;Children's Books
+316080683;The Dragon's Path (The Dagger and the Coin);Daniel Abraham;Science Fiction & Fantasy
+316098329;Room: A Novel;Emma Donoghue;Mystery, Thriller & Suspense
+316119849;Witch & Wizard: The Manga, Vol. 3;James Patterson;Comics & Graphic Novels
+316142239;On the Halfpipe with Tony Hawk;Matt Christopher;Children's Books
+316159352;Skeletons on the Zahara: A True Story of Survival;Dean King;Engineering & Transportation
+316184144;The Complete Poems of Emily Dickinson;Emily Dickinson;Literature & Fiction
+316185434;The Age of Acquiescence: The Life and Death of American Resistance to Organized Wealth and Power;Steve Fraser;Business & Money
+316187623;K-ON!, Vol. 3;kakifly;Teen & Young Adult
+316190101;Etiquette & Espionage (Finishing School);Gail Carriger;Teen & Young Adult
+316216429;Put Out More Flags;Evelyn Waugh;Literature & Fiction
+316216860;The Shining Girls: A Novel;Lauren Beukes;Mystery, Thriller & Suspense
+316217174;Twilight: The Graphic Novel Collector's Edition (The Twilight Saga);Stephenie Meyer;Comics & Graphic Novels
+316217182;New Moon: The Graphic Novel, Vol. 1 (The Twilight Saga);Stephenie Meyer;Comics & Graphic Novels
+316219126;The Autumn Republic (The Powder Mage Trilogy);Brian McClellan;Science Fiction & Fantasy
+316219282;The Everything Store: Jeff Bezos and the Age of Amazon;Brad Stone;Literature & Fiction
+316221031;Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America;Annie Jacobsen;History
+316222461;The Twilight Saga: The Complete Film Archive: Memories, Mementos, and Other Treasures from the Creative Team Behind the Beloved Motion Pictures;Robert Abele;Teen & Young Adult
+316230847;We Need New Names: A Novel;NoViolet Bulawayo;Literature & Fiction
+316234842;Mast Brothers Chocolate: A Family Cookbook;Rick Mast;Cookbooks, Food & Wine
+316249084;Monster High: The Scary Cute Collection;Lisi Harrison;Teen & Young Adult
+316259535;The Killing Kind;Chris Holm;Mystery, Thriller & Suspense
+316268089;Leading: Learning from Life and My Years at Manchester United;Alex Ferguson;Business & Money
+316332976;Careless Love: The Unmaking of Elvis Presley;Peter Guralnick;Biographies & Memoirs
+316340022;Akame ga KILL!, Vol. 2;Takahiro;Comics & Graphic Novels
+316340057;Akame ga KILL!, Vol. 4;Takahiro;Comics & Graphic Novels
+316341029;A Drinking Life: A Memoir;Pete Hamill;Biographies & Memoirs
+316341517;Mythology;Edith Hamilton;Literature & Fiction
+316404152;The Remaining;D.J. Molles;Mystery, Thriller & Suspense
+316796883;Boyd: The Fighter Pilot Who Changed the Art of War;Robert Coram;Biographies & Memoirs
+316853127;Corgiville Fair;Tasha Tudor;Children's Books
+316923354;Beautiful Swimmers: Watermen, Crabs and the Chesapeake Bay;William W. Warner;Science & Math
+321090519;Exploring Fiction;Frank Madden;Science Fiction & Fantasy
+321154924;The Art and Business of Speech Recognition: Creating the Noble Voice;Blade Kotelly;Computers & Technology
+321667549;Selected Solutions Manual for Chemistry: A Molecular Approach;Nivaldo J. Tro;Science & Math
+321743679;Biological Science (5th Edition);Scott Freeman;Science & Math
+321820274;Game Mechanics: Advanced Game Design (Voices That Matter);Ernest Adams;Computers & Technology
+321821467;Globalization and Diversity: Geography of a Changing World (4th Edition);Lester Rowntree;Science & Math
+321829174;Literature for Composition: An Introduction to Literature (10th Edition);Sylvan Barnet;Literature & Fiction
+321856562;Introduction to Electrodynamics (4th Edition);David J. Griffiths;Engineering & Transportation
+321886399;Road to Seeing;Dan Winters;Arts & Photography
+321910427;Health: The Basics (11th Edition);Rebecca J. Donatelle;Health, Fitness & Dieting
+321919068;Diversity Consciousness: Opening Our Minds to People, Cultures, and Opportunities (4th Edition) (Student Success 2015 Copyright Series);Richard D. Bucher;Business & Money
+321998596;Algebra and Trigonometry (10th Edition);Michael Sullivan;Science & Math
+323042538;Prenatal Massage: A Textbook of Pregnancy, Labor, and Postpartum Bodywork, 1e (Mosby's Massage Career Development);Elaine Stillerman LMT;Medical Books
+323057233;The Muscular System Manual: The Skeletal Muscles of the Human Body, 3e;Joseph E. Muscolino DC;Health, Fitness & Dieting
+323068189;Handbook of MRI Scanning, 1e;Geraldine Burghart MA  RT(R)(MR)(M);Medical Books
+323072534;Manual of High Risk Pregnancy and Delivery, 5e (Manual of High Risk Pregnancy & Delivery);Elizabeth S. Gilbert RNC  MS  FNPc;Medical Books
+323075835;Mosby's Textbook for Long-Term Care Nursing Assistants, 6e;Sheila A. Sorrentino;Self-Help
+323083471;Williams' Basic Nutrition & Diet Therapy, 14e (LPN Threads);Staci Nix MS  RD  CD;Medical Books
+323085180;Immunology & Serology in Laboratory Medicine, 5e (IMMUNOLOGY & SEROLOGY IN LABORATORY MEDICINE ( TURGEON));Mary Louise Turgeon EdD  MLS(ASCP)CM;Medical Books
+323225616;Mosby's Review for the NBDE Part I, 2e;Mosby;Medical Books
+323227740;Small Animal Emergency and Critical Care for Veterinary Technicians, 3e;Andrea M. Battaglia LVT;Medical Books
+323328075;Learning Radiology: Recognizing the Basics, 3e;William Herring MD  FACR;Medical Books
+323377041;Specialty Imaging: Temporomandibular Joint, 1e;Dania Faisal Tamimi BDS  DMSc;Medical Books
+325003084;Teaching for Comprehending and Fluency: Thinking, Talking, and Writing About Reading, K-8;Irene Fountas;Reference
+325006016;Writing Essentials: Raising Expectations and Results While Simplifying Teaching;Regie Routman;Reference
+333389387;Nevis: Queen of the Caribees (Caribbean Guides Series);Joyce Gordon;Travel
+340717556;Mary Stewart Omnibus: Price of a Princess / Lord in Waiting;Nigel Tranter;Science Fiction & Fantasy
+340792701;Beckham: My World;David Beckham;Biographies & Memoirs
+340920270;Vanishing Ireland: Further Chronicles of a Disappearing World;Turtle Bunbury;Biographies & Memoirs
+345290755;Once Upon a Galaxy: A Journal of the Making of The Empire Strikes Back;Alan Arnold;Science Fiction & Fantasy
+345314603;Five Years to Freedom: The True Story of a Vietnam POW;James N. Rowe;History
+345323440;Footfall;Larry Niven;Science Fiction & Fantasy
+345347048;Don Coyote: The Good Times and the Bad Times of a Much Maligned America;Dayton O. Hyde;Sports & Outdoors
+345350685;The Autobiography of Malcolm X: As Told to Alex Haley;Malcolm X;Biographies & Memoirs
+345366239;The Eight;Katherine Neville;Mystery, Thriller & Suspense
+345367103;Lightningbolt;Hyemeyohsts Storm;Biographies & Memoirs
+345368959;The Dolphins of Pern (Dragonriders of Pern);Anne McCaffrey;Science Fiction & Fantasy
+345373537;Dr. Dean Ornish's Program for Reversing Heart Disease;Dr. Dean Ornish;Health, Fitness & Dieting
+345379829;From Anger to Forgiveness: A Practical Guide to Breaking the Negative Power of Anger and Achieving Reconciliation;Earnie Larsen;Self-Help
+345404289;The Great Thoughts, From Abelard to Zola, from Ancient Greece to Contemporary America, the Ideas that have Shaped the History of the World;George Seldes;Humor & Entertainment
+345405838;Journey to Justice;Johnnie Cochran;Law
+345412214;The Last Don;Mario Puzo;Literature & Fiction
+345447867;The Apprentice- Tess Gerritsen;Tess Gerritsen;Mystery, Thriller & Suspense
+345453743;The Ultimate Hitchhiker's Guide to the Galaxy;Douglas Adams;Science Fiction & Fantasy
+345458265;The Imaginary Girlfriend: A Memoir;John Irving;Biographies & Memoirs
+345461525;The Bloody Crown of Conan (Conan of Cimmeria, Book 2);Robert E. Howard;Science Fiction & Fantasy
+345494512;Healing the New Childhood Epidemics: Autism, ADHD, Asthma, and Allergies: The Groundbreaking Program for the 4-A Disorders;Kenneth Bock;Parenting & Relationships
+345496108;The Invisible Wall: A Love Story That Broke Barriers;Harry Bernstein;Biographies & Memoirs
+345508793;Unzipped: An Urban Erotic Tale;Noire;Romance
+345512251;Victory of Eagles (Temeraire);Naomi Novik;Science Fiction & Fantasy
+345512278;Penny Arcade 6: The Halls Below;Jerry Holkins;Humor & Entertainment
+345524152;The Daylight War: Book Three of The Demon Cycle;Peter V. Brett;Science Fiction & Fantasy
+345524616;Whispers Under Ground (Peter Grant);Ben Aaronovitch;Mystery, Thriller & Suspense
+345527798;Wicked Business: A Lizzy and Diesel Novel (Lizzy & Diesel);Janet Evanovich;Mystery, Thriller & Suspense
+345528336;A King's Ransom: A Novel;Sharon Kay Penman;Literature & Fiction
+345531957;The Partner: A Novel;John Grisham;Mystery, Thriller & Suspense
+345535812;The Last Victim: A Novel (Dr. Charlotte Stone);Karen Robards;Mystery, Thriller & Suspense
+345538544;The Lands of Ice and Fire (A Game of Thrones): Maps from King's Landing to Across the Narrow Sea;George R. R. Martin;Science Fiction & Fantasy
+345540484;The Undying Legion: Crown & Key;Clay and Susan Griffith;Science Fiction & Fantasy
+345543955;The Arrow: A Highland Guard Novel;Monica McCarty;Romance
+345547144;The Best Pasta Sauces: Favorite Regional Italian Recipes;Micol Negrin;Cookbooks, Food & Wine
+345548167;A Reckless Desire: A Breconridge Brothers Novel (The Breconridge Brothers);Isabella Bradford;Romance
+345548671;The Soul of Discipline: The Simplicity Parenting Approach to Warm, Firm, and Calm Guidance- From Toddlers to Teens;Kim John Payne;Parenting & Relationships
+345806409;The Book of Unknown Americans;Cristina Henríquez;Literature & Fiction
+345806972;Longbourn;Jo Baker;Romance
+373283431;The Bounty Hunter's Redemption (Love Inspired Historical);Janet Dean;Romance
+373446845;Proof of Innocence (Capitol K-9 Unit);Lenora Worth;Romance
+373447132;Silent Night Pursuit (Roads to Danger);Katy Lee;Romance
+373779070;Snow Angel Cove (Haven Point);RaeAnne Thayne;Romance
+373892446;Organize Your Mind, Organize Your Life: Train Your Brain to Get More Done in Less Time;Margaret Moore;Self-Help
+373892705;Healthy Joints for Life: An Orthopedic Surgeon's Proven Plan to Reduce Pain and Inflammation, Avoid Surgery and Get Moving Again;Richard Diana;Health, Fitness & Dieting
+373892802;Quick & Easy Paleo Comfort Foods: 100+ Delicious Gluten-Free Recipes;Julie and Charles Mayfield;Cookbooks, Food & Wine
+374104107;Authority: A Novel (The Southern Reach Trilogy);Jeff VanderMeer;Mystery, Thriller & Suspense
+374105979;The Hare with Amber Eyes: A Family's Century of Art and Loss;Edmund de Waal;Biographies & Memoirs
+374119163;Letters to a Young Novelist;Mario Vargas Llosa;Science Fiction & Fantasy
+374227349;The Origins of Political Order: From Prehuman Times to the French Revolution;Francis Fukuyama;Law
+374267812;The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures;Anne Fadiman;Parenting & Relationships
+374301115;Tractor Mac Harvest Time;Billy Steers;Children's Books
+374379955;The Trouble in Me;Jack Gantos;Teen & Young Adult
+374502005;The Natural;Bernard Malamud;Science Fiction & Fantasy
+374522669;Adventures on the Wine Route: A Wine Buyer's Tour of France;Kermit Lynch;Cookbooks, Food & Wine
+374529965;Fierce Attachments: A Memoir (FSG Classics);Vivian Gornick;Parenting & Relationships
+374531358;Gertrude Bell: Queen of the Desert, Shaper of Nations;Georgina Howell;Biographies & Memoirs
+375422951;The Acme Novelty Library;Chris Ware;Comics & Graphic Novels
+375426248;4,000 Questions for Getting to Know Anyone and Everyone, 2nd Edition;Barbara Ann Kipfer;Self-Help
+375428666;Cracking the PSAT/NMSQT, 2009 Edition (College Test Preparation);Princeton Review;Test Preparation
+375714618;Marx for Beginners;Rius;Biographies & Memoirs
+375714723;Black Hole;Charles Burns;Comics & Graphic Novels
+375720383;Official Price Guide to Classic Video Games: Console, Arcade, and Handheld Games;David Ellis;Humor & Entertainment
+375722408;Sell, Keep, or Toss?: How to Downsize a Home, Settle an Estate, and Appraise Personal Property;Harry L. Rinker;Reference
+375724001;United States Chess Federation's Official Rules of Chess, Sixth Edition;U.S. Chess Federation;Humor & Entertainment
+375727124;It Must've Been Something I Ate;Jeffrey Steingarten;Humor & Entertainment
+375727647;The Quick and the Dead;Joy Williams;Literature & Fiction
+375764895;Cracking the GRE Chemistry Test, 3rd Edition (Graduate School Test Preparation);Princeton Review;Test Preparation
+375766316;MCAT Workout;Princeton Review;Test Preparation
+375803467;The Kidnapped Prince: The Life of Olaudah Equiano;Ann Cameron;Children's Books
+375814043;Thomas' Magnetic Playbook (Thomas & Friends);Random House;Children's Books
+375815104;Eat My Dust! Henry Ford's First Race (Step into Reading);Monica Kulling;Engineering & Transportation
+375836578;The Realm of Possibility;David Levithan;Teen & Young Adult
+375844422;Tillie the Terrible Swede: How One Woman, a Sewing Needle, and a Bicycle Changed History;Sue Stauffacher;Children's Books
+375866574;Shadow Scale (Seraphina);Rachel Hartman;Teen & Young Adult
+375870202;Five Ancestors Out of the Ashes #3: Jackal;Jeff Stone;Children's Books
+379111918;Law of Dispute Resolution: Arbitration and Alternative Dispute Resolution (Oceana's Legal Almanac Series: Law for the Layperson);Margaret C. Jasper;Engineering & Transportation
+379112310;The Law of Obscenity and Pornography (Oceana's Legal Almanac Series  Law for the Layperson);Margaret C. Jasper;Engineering & Transportation
+379112337;Law of Medical Malpractice (Oceana's Legal Almanac. Law for the Layperson);Margaret C. Jasper;Engineering & Transportation
+379112361;The Law of Buying and Selling (Oceana's Legal Almanac Series  Law for the Layperson);Margaret C Jasper;Engineering & Transportation
+380006766;The Relaxation Response;Herbert Benson;Self-Help
+380807033;We're Not Monsters: Teens Speak Out about Teens in Trouble;Sabrina Solin Weill;Teen & Young Adult
+385258925;A Map to the Door of No Return: Notes to Belonging;Dionne Brand;Biographies & Memoirs
+385265204;Cartoon History of the Universe Volumes 1-7;Larry Gonick;Comics & Graphic Novels
+385320159;My Mother/My Self: The Daughter's Search for Identity;Nancy Friday;Parenting & Relationships
+385333471;God Bless You, Mr. Rosewater: A Novel;Kurt Vonnegut;Mystery, Thriller & Suspense
+385333692;After Long Silence: A Memoir;Helen Fremont;Biographies & Memoirs
+385334435;For the Groom;Colin Cowie;Crafts, Hobbies & Home
+385337558;A Child Is Born;Lennart Nilsson;Arts & Photography
+385340869;The Cookbook Collector: A Novel;Allegra Goodman;Literature & Fiction
+385344066;The Dead in Their Vaulted Arches: A Flavia de Luce Novel;Alan Bradley;Mystery, Thriller & Suspense
+385344414;Burned: A Fever Novel;Karen Marie Moning;Science Fiction & Fantasy
+385345607;Big Gay Ice Cream: Saucy Stories & Frozen Treats: Going All the Way with Ice Cream;Bryan Petroff;Humor & Entertainment
+385345712;The Complete Book of Juicing, Revised and Updated: Your Delicious Guide to Youthful Vitality;Michael Murray;Cookbooks, Food & Wine
+385346158;The Homemade Kitchen: Recipes for Cooking with Pleasure;Alana Chernila;Cookbooks, Food & Wine
+385346824;Ex-Communication: A Novel (Ex-Heroes);Peter Clines;Science Fiction & Fantasy
+385347596;The Reputation Economy: How to Optimize Your Digital Footprint in a World Where Your Reputation Is Your Most Valuable Asset;Michael Fertik;Computers & Technology
+385347669;My Gentle Barn: Creating a Sanctuary Where Animals Heal and Children Learn to Hope;Ellie Laks;Parenting & Relationships
+385349297;Reasons Mommy Drinks;Lyranda Martin-Evans;Humor & Entertainment
+385353618;Find a Way;Diana Nyad;Biographies & Memoirs
+385366515;Gray Mountain: A Novel;John Grisham;Mystery, Thriller & Suspense
+385376162;The Fox Went Out on a Chilly Night;Peter Spier;Children's Books
+385384440;Pups to the Rescue! (Paw Patrol) (Pictureback(R));Random House;Children's Books
+385416679;A Southern Belle Primer: Why Princess Margaret Will Never Be a Kappa Kappa Gamma;Maryln Schwartz;Reference
+385468717;Abandonment to Divine Providence (Image Classics);Jean-Pierre de Caussade;Religion & Spirituality
+385473788;The Diary of a Young Girl: The Definitive Edition;Anne Frank;Biographies & Memoirs
+385489846;Seductive Poison: A Jonestown Survivor's Story of Life and Death in the People's Temple;Deborah Layton;Self-Help
+385491743;The 80/20 Principle: The Secret to Achieving More with Less;Richard Koch;Self-Help
+385493177;Christmas in My Heart, A Third Treasury: Further Tales of Holiday Joy;Joe Wheeler;Religion & Spirituality
+385494343;The Gift of Peace: Personal Reflections;Cardinal Joseph Bernardin;Biographies & Memoirs
+385494602;The Green;Troon McAllister;Literature & Fiction
+385522274;To Bless the Space Between Us: A Book of Blessings;John O'Donohue;Christian Books & Bibles
+385663250;The Montreal Canadiens: 100 Years of Glory;D'Arcy Jenish;Biographies & Memoirs
+385721676;Oryx and Crake;Margaret Atwood;Science Fiction & Fantasy
+385740077;Chinese Cinderella;Adeline Yen Mah;Biographies & Memoirs
+387220453;Nanoindentation (Mechanical Engineering Series);Anthony C. Fischer-Cripps;Science & Math
+387308571;Power Analysis Attacks: Revealing the Secrets of Smart Cards (Advances in Information Security);Stefan Mangard;Computers & Technology
+387751653;The Illusion of Certainty: Health Benefits and Risks;Erik Rifkin;Medical Books
+387848177;Electronic Healthcare Information Security (Advances in Information Security);Charles A. Shoniregun;Medical Books
+387968245;Introduction to Analysis of the Infinite: Book I;Leonard Euler;Science & Math
+393001431;Totem and Taboo (The Standard Edition)  (Complete Psychological Works of Sigmund Freud);Sigmund Freud;Medical Books
+393052389;The Summer Shack Cookbook: The Complete Guide to Shore Food;Jasper White;Cookbooks, Food & Wine
+393081893;Fear and Clothing: Unbuckling American Style;Cintra Wilson;Arts & Photography
+393082571;Beale Street Dynasty: Sex, Song, and the Struggle for the Soul of Memphis;Preston Lauterbach;Politics & Social Sciences
+393246892;Roll Deep: Poems;Major Jackson;Literature & Fiction
+393308650;Fastnet, Force 10: The Deadliest Storm in the History of Modern Sailing;John Rousmaniere;Sports & Outdoors
+393312372;The Black Unicorn: Poems (Norton Paperback);Audre Lorde;Literature & Fiction
+393316823;Climbing Mount Improbable;Richard Dawkins;Science & Math
+393318095;The Perfect Vehicle: What It Is About Motorcycles;Melissa Holbrook Pierson;Engineering & Transportation
+393318346;Thirteen Days: A Memoir of the Cuban Missile Crisis;Robert F. Kennedy;History
+393319598;In Defense of History;Richard J. Evans;History
+393319873;The Corrosion of Character: The Personal Consequences of Work in the New Capitalism;Richard Sennett;Business & Money
+393324133;For Better or For Worse: Divorce Reconsidered;E. Mavis Hetherington;Parenting & Relationships
+393327345;Fight Club: A Novel;Chuck Palahniuk;Mystery, Thriller & Suspense
+393331261;Comics and Sequential Art: Principles and Practices from the Legendary Cartoonist (Will Eisner Instructional Books);Will Eisner;Comics & Graphic Novels
+393332888;Shark's Fin and Sichuan Pepper: A Sweet-Sour Memoir of Eating in China;Fuchsia Dunlop;Cookbooks, Food & Wine
+393336085;Unreliable Memoirs;Clive James;Biographies & Memoirs
+393337138;Born to Be Good: The Science of a Meaningful Life;Dacher Keltner;Politics & Social Sciences
+393338533;What Do You Want from Me?: Learning to Get Along with In-Laws;Terri Apter;Parenting & Relationships
+393339157;Straight on Till Morning: The Life of Beryl Markham;Mary S. Lovell;Engineering & Transportation
+393339440;Joy in the Morning;P. G. Wodehouse;Literature & Fiction
+393339742;The History of White People;Nell Irvin Painter;History
+393342468;The Influencing Machine: Brooke Gladstone on the Media;Brooke Gladstone;Comics & Graphic Novels
+393701522;Where to Start and What to Ask: An Assessment Handbook;Susan Lukas;Medical Books
+393704246;The Making of a Therapist (Norton Professional Books);Louis Cozolino;Medical Books
+393704815;A Therapist's Guide to EMDR: Tools and Techniques for Successful Treatment;Laurel Parnell;Medical Books
+393730018;The Handbook of Painted Decoration: The Tools, Materials, and Step-by-Step Techniques of Trompe L'Oeil Painting;Yannick Guegan;Arts & Photography
+393733211;Gardens of Eden: Long Island's Early Twentieth-Century Planned Communities;Robert B. MacKay;Arts & Photography
+393912019;Everyone's An Author with Readings;Andrea Lunsford;Reference
+393919560;The Norton Field Guide to Writing (Third Edition);Richard Bullock;Reference
+393920305;Give Me Liberty!: An American History (Seagull Fourth Edition)  (Vol. 1);Eric Foner;History
+393922928;Voices of Freedom: A Documentary History (Fourth Edition)  (Vol. 2);Eric Foner;Politics & Social Sciences
+393922936;Study Guide and Solutions Manual: for Organic Chemistry: Principles and Mechanisms;Joel Karty;Science & Math
+393928098;A Clockwork Orange (Norton Critical Editions);Anthony Burgess;Teen & Young Adult
+393934985;Our Origins: Discovering Physical Anthropology (Second Edition);Clark Spencer Larsen;Politics & Social Sciences
+393936848;Governing Texas (Second Edition) (Newest Edition);Anthony Champagne;Politics & Social Sciences
+393974642;Le Morte Darthur (Norton Critical Editions);Sir Thomas Malory;Literature & Fiction
+393974979;Yeats's Poetry, Drama, and Prose (Norton Critical Editions);William Butler Yeats;Literature & Fiction
+394401387;The German Cookbook: A Complete Guide to Mastering Authentic German Cooking;Mimi Sheraton;Cookbooks, Food & Wine
+394711068;The Archaeology of Knowledge;Michel Foucault;Politics & Social Sciences
+394714393;Something Like An Autobiography;Akira Kurosawa;Biographies & Memoirs
+394722744;Son of the Revolution;Liang Heng;Biographies & Memoirs
+394826817;Richard Scarry's Please and Thank You Book (Pictureback(R));Richard Scarry;Children's Books
+395284252;Motel of the Mysteries;David Macaulay;Humor & Entertainment
+395331900;Chocolate to Morphine: Understanding Mind-Active Drugs;Andrew Weil;Medical Books
+395349249;Smokey;Bill Peet;Children's Books
+395366119;Eli;Bill Peet;Science Fiction & Fantasy
+395621550;The Magpies' Nest;Joanna Foster;Children's Books
+395657830;In Search of Dracula: The History of Dracula and Vampires;Radu Florescu;History
+396085776;The Bombay Palace Cookbook: A Treasury of Indian Delights;Stendahl;Cookbooks, Food & Wine
+397551711;Modules for Basic Nursing Skills;Janice Rider Ellis PhD  RN;Medical Books
+399162895;Nature's Cancer-Fighting Foods: Prevent and Reverse the Most Common Forms of Cancer Using the Proven Power of Whole Food and Self-Healing Strategies;Verne Varona;Cookbooks, Food & Wine
+399166440;The Harvest Man (Scotland Yard's Murder Squad);Alex Grecian;Mystery, Thriller & Suspense
+399166726;Saving Jason (A Jason Stafford Novel);Michael Sears;Mystery, Thriller & Suspense
+399167064;Big Little Lies;Liane Moriarty;Mystery, Thriller & Suspense
+399168176;Keri Smith Deluxe Boxed Set;Keri Smith;Self-Help
+399168451;Peaceful Parent, Happy Siblings: How to Stop the Fighting and Raise Friends for Life;Dr. Laura Markham;Parenting & Relationships
+399168834;Brainstorm: The Power and Purpose of the Teenage Brain;Daniel J. Siegel MD;Parenting & Relationships
+399174036;FLAWD: How to Stop Hating on Yourself, Others, and the Things That Make You Who You Are;Emily-Anne Rigal;Self-Help
+399174680;Scandalous Behavior (A Stone Barrington Novel);Stuart Woods;Mystery, Thriller & Suspense
+399175954;The Gangster (An Isaac Bell Adventure);Clive Cussler;Mystery, Thriller & Suspense
+399241639;Stick Kid;Peter Holwitz;Parenting & Relationships
+399501487;Lord of the Flies;William Golding;Mystery, Thriller & Suspense
+399527133;"Leader Effectiveness Training: L.E.T. (Revised): ""L.E.T.""";Thomas Gordon;Business & Money
+399533184;Bullyproof Your Child for Life: Protect Your Child from Teasing, Taunting, and Bullying forGood;Joel Haber;Parenting & Relationships
+399533451;The Cloudspotter's Guide: The Science, History, and Culture of Clouds;Gavin Pretor-Pinney;Science & Math
+399537368;Kids Beyond Limits: The Anat Baniel Method for Awakening the Brain and Transforming the Life of Your  Child With Special Needs;Anat Baniel;Parenting & Relationships
+412610302;Rare Earth Minerals: Chemistry, Origin and Ore Deposits (The Mineralogical Society Series);A.P. Jones;Science & Math
+413724506;Plays, Vol. 1: Beautiful Thing / Babies / Boom Bang-a-Bang / Rupert Street Lonely Hearts Club;Jonathan Harvey;Literature & Fiction
+415121043;Colloquial Lithuanian: The Complete Course for Beginners (Colloquial Series);Meilute Ramoniene;Travel
+415278449;The Logic of Scientific Discovery (Routledge Classics);Karl Popper;Science & Math
+415290015;Gravity and Grace (Routledge Classics);Simone Weil;Politics & Social Sciences
+415431689;The International Olympic Committee and the Olympic System: The Governance of World Sport (Global Institutions);Jean-Loup Chappelet;Sports & Outdoors
+415508304;Raising Parents: Attachment, Representation, and Treatment;Patricia M. Crittenden;Parenting & Relationships
+415567882;Distinction: A Social Critique of the Judgement of Taste (Routledge Classics);Pierre Bourdieu;Politics & Social Sciences
+415636000;Mastering the National Admissions Test for Law;Mark Shepherd;Test Preparation
+415801419;Vital Information and Review Questions for the NCE, CPCE and State Counseling Exams: Special 15th Anniversary Edition;Howard Rosenthal;Test Preparation
+415898188;The Origins of Attachment: Infant Research and Adult Treatment (Relational Perspectives Book Series);Beatrice Beebe;Medical Books
+415921988;Me Against My Brother: At War in Somalia, Sudan and Rwanda;Scott Peterson;History
+415993415;The Psychology of Executive Coaching: Theory and Application;Bruce Peltier;Medical Books
+421959304;Parry and Kerridge: The Law of Succession;R. Kerridge;Law
+425176746;The Cat Who... Cookbook: Delicious Meals and Menus Inspired By Lilian Jackson Braun;Julie Murphy;Cookbooks, Food & Wine
+425183769;Line of Vision;David Ellis;Mystery, Thriller & Suspense
+425191656;Why Does He Do That?: Inside the Minds of Angry and Controlling Men;Lundy Bancroft;Parenting & Relationships
+425217825;The Beautiful Cigar Girl: Mary Rogers, Edgar Allan Poe, and the Invention of Murder;Daniel Stashower;Mystery, Thriller & Suspense
+425219321;The Mark of the Vampire Queen (Vampire Queen, Book 2);Joey W. Hill;Romance
+425221180;A Dance with the Devil: A True Story of Marriage to a Psychopath;Barbara Bentley;Law
+425226476;Mona Lisa Darkening (Monere: Children of the Moon, Book 4);Sunny;Romance
+425230163;Scarpetta: Scarpetta (Book 16);Patricia Cornwell;Mystery, Thriller & Suspense
+425236579;The Mission, the Men, and Me: Lessons from a Former Delta Force Commander;Pete Blaber;History
+425242609;Cure;Robin Cook;Mystery, Thriller & Suspense
+425243168;Men Out of Uniform: Three Novellas of Erotic Surrender;Sylvia Day;Romance
+425244148;The Weird Sisters;Eleanor Brown;Literature & Fiction
+425245284;If You Ask Me: (And of Course You Won't);Betty White;Biographies & Memoirs
+425257142;Wanting Sex Again: How to Rediscover Your Desire and Heal a Sexless Marriage;Laurie Watson;Self-Help
+425258785;The Spirit of the Place;Samuel Shem;Mystery, Thriller & Suspense
+425263533;Dead or Alive (A Jack Ryan Novel);Tom Clancy;Mystery, Thriller & Suspense
+425268195;Mine to Hold (A Wicked Lovers Novel);Shayla Black;Romance
+425269477;Eat Right 4 Your Type Personalized Cookbook Type B: 150+ Healthy Recipes For Your Blood Type Diet;Dr. Peter J. D'Adamo;Health, Fitness & Dieting
+425270076;Robert B. Parker's Damned If You Do (A Jesse Stone Novel);Michael Brandman;Mystery, Thriller & Suspense
+425270211;Claws for Alarm (Nick and Nora Mysteries);T.C. LoTempio;Mystery, Thriller & Suspense
+425270661;Robert B. Parker's Wonderland (Spenser);Ace Atkins;Mystery, Thriller & Suspense
+425275132;Command Authority (A Jack Ryan Novel);Tom Clancy;Mystery, Thriller & Suspense
+425275183;Deadline: A Virgil Flowers Novel;John Sandford;Mystery, Thriller & Suspense
+425276031;Breach of Crust: A Charmed Pie Shoppe Mystery;Ellery Adams;Mystery, Thriller & Suspense
+425276163;Robert B. Parker's Blind Spot (A Jesse Stone Novel);Reed Farrel Coleman;Mystery, Thriller & Suspense
+425279162;Havana Storm: A Dirk Pitt Adventure;Clive Cussler;Literature & Fiction
+425280004;Blood Orange: A China Bayles Mystery;Susan Wittig Albert;Mystery, Thriller & Suspense
+425280306;The Man Who Fell from the Sky: A Wind River Mystery;Margaret Coel;Mystery, Thriller & Suspense
+431186367;My Divali (Little Nippers: Festivals);Monica Hughes;Children's Books
+439235812;What's the Big Idea? Ethan Flask and Professor von Offel's Ingenious Inventions (Mad Science);Kathy Burkett;Sports & Outdoors
+439669960;Survivors: True Stories of Children in the Holocaust;Allan Zullo;Children's Books
+439770831;Scholastic Dictionary of Idioms;Marvin Terban;Children's Books
+440120144;Devil's Guard;George R. Elford;History
+440145465;King Rat;James Clavell;Literature & Fiction
+440180953;A Savage Place;Robert B. Parker;Mystery, Thriller & Suspense
+440206707;The Viking's Woman;Heather Graham;Romance
+440226767;A Family Apart (Orphan Train Adventures);Joan Lowery Nixon;Teen & Young Adult
+440506735;Your Five-Year-Old: Sunny and Serene;Louise Bates Ames;Parenting & Relationships
+440506786;Your Ten- to Fourteen-Year-Old;Louise Bates Ames;Parenting & Relationships
+441002730;Steal the Dragon (Sianim, No. 2);Patricia Briggs;Literature & Fiction
+441020895;Troubled Waters (An Elemental Blessings Novel);Sharon Shinn;Science Fiction & Fantasy
+441328008;Heretics of Dune;Frank Herbert;Science Fiction & Fantasy
+441533825;Mirrorshades: The Cyberpunk Anthology;Greg Bear;Science Fiction & Fantasy
+441731546;Robot Dreams (Remembering Tomorrow);Isaac Asimov;Science Fiction & Fantasy
+442233981;Nutrition and Behavior: New Perspectives;Robin B. Kanarek;Health, Fitness & Dieting
+443066841;Gray's Anatomy: The Anatomical Basis of Clinical Practice, Expert Consult - Online and Print, 40e;Susan Standring PhD  DSc;Reference
+444537821;Biological Inorganic Chemistry, Second Edition: A New Introduction to Molecular Structure and Function;Robert R. Crichton;Science & Math
+444702903;Quality Control and Reliability, Volume 7 (Handbook of Statistics) (Vol 7);P. R. Krishnaiah;Engineering & Transportation
+446194069;Max (Maximum Ride, Book 5);James Patterson;Science Fiction & Fantasy
+446383732;The Pleasures of Your Food Processor;Norene Gilletz;Cookbooks, Food & Wine
+446500135;Lucky Every Day: 20 Unforgettable Lessons from a Coach Who Made a Difference;Chip Silverman;Sports & Outdoors
+446527092;Beyond the Deep: The Deadly Descent into the World's Most Treacherous Cave;William Stone;Science & Math
+446529311;How I Play Golf;Tiger Woods;Biographies & Memoirs
+446550124;Sybil;Flora Rheta Schreiber;Medical Books
+446561975;True Blue;David Baldacci;Mystery, Thriller & Suspense
+446573302;Born of Silence (The League);Sherrilyn Kenyon;Romance
+446580635;Abraham's Children: Race, Identity, and the DNA of the Chosen People;Jon Entine;Politics & Social Sciences
+446581046;Walking the Walk (w/DVD): Getting Fit with Faith;Leslie Sansone;Health, Fitness & Dieting
+446583707;Letters to Penthouse Vol. 50: She's Wild! She's Horny! She's Married?;Penthouse International;Romance
+446604801;Jack & Jill (Alex Cross);James Patterson;Mystery, Thriller & Suspense
+446607711;The Simple Truth;David Baldacci;Mystery, Thriller & Suspense
+446608815;Pop Goes the Weasel (Alex Cross);James Patterson;Mystery, Thriller & Suspense
+446670030;First You Have to Row a Little Boat: Reflections on Life & Living;Richard Bode;Sports & Outdoors
+446673633;Reversing Asthma: Breathe Easier with This Revolutionary New Program;Richard N. Firshein;Health, Fitness & Dieting
+446678155;Toning for Teens: The 20 Minute Workout That Makes You Look Good and Feel Great;Joyce L. Vedral;Health, Fitness & Dieting
+446678287;The Hormone Solution: Naturally  Alleviate  Symptoms of Hormone Imbalance from Adolescence Through Menopause;Erika Schwartz;Reference
+446690910;What Your Doctor May Not Tell You About(TM) IBS: Eliminate Your Symptoms and Live a Pain-free, Drug-free Life;Richard N. Ash;Health, Fitness & Dieting
+446692816;The Vice Guide to Sex and Drugs and Rock and Roll;Suroosh Alvi;Humor & Entertainment
+446696331;A Brother's Journey: Surviving a Childhood of Abuse;Richard B. Pelzer;Self-Help
+446698598;Penthouse Uncensored VI: Ultimate Erotica;Penthouse International;Romance
+448464616;Who Is Bob Dylan? (Who Was...?);Jim O'Connor;Children's Books
+448479532;Who Was Clara Barton?;Stephanie Spinner;Children's Books
+449905896;Earth Medicine, Earth Food;Michael A. Weiner;Cookbooks, Food & Wine
+449906442;The Emotionally Abused Woman: Overcoming Destructive Patterns and Reclaiming Yourself (Fawcett Book);Beverly Engel;Self-Help
+449908704;The Best and the Brightest;David Halberstam;Politics & Social Sciences
+451210557;No Second Chance;Harlan Coben;Mystery, Thriller & Suspense
+451232135;Known to Evil: A Leonid McGill Mystery;Walter Mosley;Mystery, Thriller & Suspense
+451233573;You Belong to Me (The Baltimore Series);Karen Rose;Mystery, Thriller & Suspense
+451235266;The Strangers on Montagu Street (Tradd Street);Karen White;Mystery, Thriller & Suspense
+451403878;Murder Machine (Onyx True Crime);Gene Mustain;Biographies & Memoirs
+451417097;Viviendo (Spanish Edition);Adamari Lopez;Health, Fitness & Dieting
+451464389;Firestorm (Destroyermen);Taylor Anderson;Science Fiction & Fantasy
+451466241;The Training: The Submissive Series;Tara Sue Me;Romance
+451466802;The Cinder Spires: the Aeronaut's Windlass;Jim Butcher;Science Fiction & Fantasy
+451466993;Dreamer's Pool: A Blackthorn & Grim Novel;Juliet Marillier;Romance
+451469666;Only Enchanting (Survivor's Club);Mary Balogh;Romance
+451473434;Florist Grump: A Flower Shop Mystery;Kate Collins;Mystery, Thriller & Suspense
+451473639;Unraveled: The Mastered Series;Lorelei James;Romance
+451473841;The Stitching Hour: An Embroidery Mystery;Amanda Lee;Mystery, Thriller & Suspense
+451474538;The Collar: The Submissive Series;Tara Sue Me;Romance
+451475798;Admiral (An Evagardian Novel);Sean Danker;Science Fiction & Fantasy
+451476018;A Curious Beginning: A Veronica Speedwell Mystery;Deanna Raybourn;Mystery, Thriller & Suspense
+451531760;What to Listen for in Music (Signet Classics);Aaron Copland;Humor & Entertainment
+452262097;Figure Skating: Championship Techniques (Sports Illustrated Winner's Circle Books);John Misha Petkevich;Sports & Outdoors
+452268184;When Food Is Love: Exploring the Relationship Between Eating and Intimacy;Geneen Roth;Self-Help
+452271681;When Heaven and Earth Changed Places (Tie-In Edition);Le Ly Hayslip;Biographies & Memoirs
+452275350;Too Good to Leave, Too Bad to Stay: A Step-by-Step Guide to Help You Decide Whether to Stay In or Get Out of Your Relationship;Mira Kirshenbaum;Parenting & Relationships
+452297036;The Violets of March: A Novel;Sarah Jio;Literature & Fiction
+452297923;The Dyslexic Advantage: Unlocking the Hidden Potential of the Dyslexic Brain;Brock L. Eide M.D.  M.A.;Parenting & Relationships
+452298202;The De-Textbook: The Stuff You Didn't Know About the Stuff You Thought You Knew;Cracked.com;Humor & Entertainment
+452298229;Enchantress: A Novel of Rav Hisda's Daughter;Maggie Anton;Literature & Fiction
+465006965;Religion Explained: The Evolutionary Origins of Religious Thought;Pascal Boyer;Religion & Spirituality
+465011527;America and the Pill: A History of Promise, Peril, and Liberation;Elaine Tyler May;Politics & Social Sciences
+465018092;Who's Your City?: How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life;Richard Florida;Business & Money
+465024599;America and the Pill: A History of Promise, Peril, and Liberation;Elaine Tyler May;Politics & Social Sciences
+465025048;The Arabs: A History;Eugene Rogan;History
+465050654;The Design of Everyday Things: Revised and Expanded Edition;Don Norman;Arts & Photography
+465058957;The Rise and Fall of Modern Medicine: Revised Edition;M.D. James Le Fanu M.D.;Medical Books
+471041386;Polymeric Multicomponent Materials: An Introduction;L. H. Sperling;Science & Math
+471094382;Entrophy Generation Through Heat and Fluid Flow;Adrian Bejan;Science & Math
+471149632;The In-Law Survival Manual: A Guide to Cultivating Healthy In-Law Relationships (Wiley Series in Couples and Family Dynamics and Treatment);Gloria Call Horsley;Parenting & Relationships
+471155101;Learning Disabilities and ADHD: A Family Guide to Living and Learning Together;Betty B. Osman;Parenting & Relationships
+471176397;More Edible Art: 75 Fresh Ideas for Garnishing;David Paul Larousse;Cookbooks, Food & Wine
+471182095;An Introduction to Fluid Dynamics: Principles of Analysis and Design;Stanley Middleman;Engineering & Transportation
+471197602;Pricing Financial Instruments: The Finite Difference Method;Domingo Tavella;Business & Money
+471246913;The Calling of Katie Makanya: A Memoir of South Africa;Margaret McCord;Biographies & Memoirs
+471403091;Litigation Services Handbook: The Role of the Financial Expert;Roman L. Weil;Law
+471438812;Advanced Mechanics of Materials;Arthur P. Boresi;Science & Math
+471454036;The Emotionally Abusive Relationship: How to Stop Being Abused and How to Stop Abusing;Beverly Engel;Parenting & Relationships
+471469181;Creative Cash Flow Reporting: Uncovering Sustainable Financial Performance;Charles W. Mulford;Business & Money
+471492523;The Analysis of Controlled Substances (Analytical Techniques in the Sciences (AnTs) *);Michael D. Cole;Medical Books
+471595330;Repetitive Strain Injury: A Computer User's Guide;Emil Pascarelli M.D.;Health, Fitness & Dieting
+471669830;Matrix Analysis for Statistics;James R. Schott;Science & Math
+471737925;Core Concepts of Government and Not-For-Profit Accounting;Michael H. Granof;Business & Money
+471748161;Culinary Calculations: Simplified Math for Culinary Professionals;Terri Jones;Cookbooks, Food & Wine
+471772720;Public Relations For Dummies;Eric Yaverbaum;Business & Money
+472051695;Wicked Takes the Witness Stand: A Tale of Murder and Twisted Deceit in Northern Michigan;Mardi Link;Biographies & Memoirs
+472067656;Before Motown: A History of Jazz in Detroit, 1920-60;Lars Bjorn;Biographies & Memoirs
+486213420;Handbook of the Nutritional Value of Foods in Common Units;U.S. Dept. of Agriculture;Cookbooks, Food & Wine
+486231348;Ludwig Van Beethoven Complete Piano Sonatas Volume 1 (Nos. 1-15);Ludwig van Beethoven;Humor & Entertainment
+486242137;Room and Furniture Layout Kit;Muncie Hendler;Arts & Photography
+486243796;Mosaic and Tessellated Patterns: How to Create Them, with 32 Plates to Color (Dover Art Instruction);John Willson;Arts & Photography
+486257800;Bloomingdale's Illustrated 1886 Catalog;Bloomingdale Brothers;Humor & Entertainment
+486258130;Tatting Patterns and Designs (Dover Knitting, Crochet, Tatting, Lace);Gun Blomqvist;Crafts, Hobbies & Home
+486265439;Men, Women and Pianos: A Social History (Dover Books on Music);Arthur Loesser;Politics & Social Sciences
+486269310;Charles Jordan's Best Card Tricks: With 265 Illustrations (Dover Magic Books);Karl Fulves;Humor & Entertainment
+486273679;101 Easy-to-Do Magic Tricks (Dover Magic Books);Bill Tarr;Humor & Entertainment
+486278077;The Picture of Dorian Gray (Dover Thrift Editions);Oscar Wilde;Mystery, Thriller & Suspense
+486292827;English Romantic Poetry: An Anthology (Dover Thrift Editions);William Blake;Literature & Fiction
+486295850;Ancient Egyptian Costumes Paper Dolls (Dover Paper Dolls);Tom Tierney;Crafts, Hobbies & Home
+486401448;Medieval Fashions Coloring Book (Dover Fashion Coloring Book);Tom Tierney;Children's Books
+486407225;Costume Through the Ages: Over 1400 Illustrations (Dover Fashion and Costumes);Erhard Klepper;Crafts, Hobbies & Home
+486408760;Selected Poems (Dover Thrift Editions);Claude McKay;Literature & Fiction
+486412296;Celtic and Old Norse Designs (Dover Pictorial Archive);Courtney Davis;Arts & Photography
+486443752;Nadi on Fencing;Aldo Nadi;Sports & Outdoors
+486447278;Camp-Lore and Woodcraft;Daniel C. Beard;Sports & Outdoors
+486479285;Atomic Physics and Human Knowledge (Dover Books on Physics);Niels Bohr;Science & Math
+486485803;Aircraft Structures (Dover Books on Aeronautical Engineering);David J. Peery;Engineering & Transportation
+486485943;Invitation to Dynamical Systems (Dover Books on Mathematics);Prof. Edward R. Scheinerman;Science & Math
+486486133;Computer-Controlled Systems: Theory and Design, Third Edition (Dover Books on Electrical Engineering);Karl A Astrom;Engineering & Transportation
+486494659;How to Create Mehndi Designs (Dover Fun and Games for Children);Jessica Mazurkiewicz;Teen & Young Adult
+486678393;Introduction to Crystallography (Dover Books on Chemistry);Donald E. Sands;Science & Math
+486779963;Creative Haven Peacock Designs Coloring Book (Creative Haven Coloring Books);Marty Noble;Arts & Photography
+486997758;Scientific Instruments and Apparatus CD-ROM and Book (Dover Electronic Clip Art);Clip Art;Science & Math
+486999408;Celtic Designs CD-ROM and Book (Dover Electronic Clip Art);Dover;Arts & Photography
+495244716;Steel Design;William T. Segui;Engineering & Transportation
+495502464;Understanding Interpersonal Communication: Making Choices in Changing Times;Richard West;Reference
+500239282;The Curator's Handbook;Adrian George;Arts & Photography
+500252025;The Crossing of Antarctica: Original Photographs from the Epic Journey That Fulfilled Shackleton's Dream;George Lowe;Arts & Photography
+500252149;Across the Arctic Ocean: Original Photographs from the Last Great Polar Journey;Sir Wally Herbert;History
+500280983;Representing Women;Linda Nochlin;Politics & Social Sciences
+500284687;The Moundbuilders: Ancient Peoples of Eastern North America (Ancient Peoples and Places);George R. Milner;History
+500287554;Mexico: From the Olmecs to the Aztecs (Sixth Edition)  (Ancient Peoples and Places);Michael D. Coe;History
+500289603;The Leopard's Tale: Revealing the Mysteries of Catalhoyuk;Ian Hodder;History
+500514070;The Dry Gardening Handbook: Plants and Practices for a Changing Climate;Olivier Filippi;Crafts, Hobbies & Home
+500516928;The New Pâtissiers;Olivier Dupon;Cookbooks, Food & Wine
+515132020;Heaven and Earth (Three Sisters Island Trilogy);Nora Roberts;Romance
+516271717;Dorothea Lange (Getting to Know the World's Greatest Artists);Mike Venezia;Children's Books
+520063252;The Worlds of a Maasai Warrior: An Autobiography;Tepilit Ole Saitoti;History
+520089790;Dateline Soweto: Travels with Black South African Reporters;William Finnegan;Travel
+520210131;Six Years: The Dematerialization of the Art Object from 1966 to 1972;Lucy R. Lippard;Arts & Photography
+520255224;Encyclopedia of Pasta (California Studies in Food and Culture);Oretta Zanini De Vita;Cookbooks, Food & Wine
+520258622;The Atlas of Endangered Species (Atlas Of... (University of California Press));Richard Mackay;Science & Math
+520266781;Islam and Christianity: Theological Themes in Comparative Perspective;John Renard;Religion & Spirituality
+520270967;Sex Cells: The Medical Market for Eggs and Sperm;Rene Almeling;Health, Fitness & Dieting
+520272900;Dirt: The Erosion of Civilizations;David R. Montgomery;Science & Math
+520273389;The Stickup Kids: Race, Drugs, Violence, and the American Dream;Randol Contreras;Politics & Social Sciences
+520282450;The Trouble with Marriage: Feminists Confront Law and Violence in India (Gender and Justice);Srimati Basu;Law
+520283902;Funnybooks: The Improbable Glories of the Best American Comic Books;Michæl Barrier;Comics & Graphic Novels
+521019192;Compliance Quantified: An Introduction to Data Verification;Rudolf Avenhaus;Engineering & Transportation
+521035627;Marriage Litigation in Medieval England (Cambridge Studies in English Legal History);R. H. Helmholz;Law
+521037875;Ecological Management of Agricultural Weeds;Matt Liebman;Crafts, Hobbies & Home
+521173426;The Role of Customary Law in Sustainable Development (Cambridge Studies in Law and Society);Peter Orebech;Law
+521320674;Organic Photochemistry (Cambridge Texts in Chemistry and Biochemistry);James Morriss Coxon;Science & Math
+521368340;Ovid: Heroides: Select Epistles (Cambridge Greek and Latin Classics);Ovid;Literature & Fiction
+521422590;The Book of the Body Politic (Cambridge Texts in the History of Political Thought);Christine de Pizan;Politics & Social Sciences
+521456924;Diagrammatica: The Path to Feynman Diagrams (Cambridge Lecture Notes in Physics);Martinus Veltman;Science & Math
+521524334;Salt of the Desert Sun: A History of Salt Production and Trade in the Central Sudan (African Studies);Paul E. Lovejoy;History
+521559529;Writing Rome: Textual Approaches to the City (Roman Literature and its Contexts);Catharine Edwards;Literature & Fiction
+521602750;Coastal Processes with Engineering Applications;Robert G. Dean;Engineering & Transportation
+521608422;The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics;Daniel W. Graham;Politics & Social Sciences
+521615534;Contract Law: Rules, Theory, and Context (Cambridge Introductions to Philosophy and Law);Brian H. Bix;Law
+521639875;Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy);Friedrich Nietzsche;Politics & Social Sciences
+521642221;Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light;Max Born;Science & Math
+521642248;Moral Combat: The Dilemma of Legal Perspectivalism (Cambridge Studies in Philosophy and Law);Heidi Hurd;Law
+521677696;Cambridge Idioms Dictionary;ELIZABETH (SENIOR COMMISSIONING EDITOR). WALTER;Reference
+521702720;Imperialism, Sovereignty and the Making of International Law (Cambridge Studies in International and Comparative Law);Antony Anghie;Law
+521707803;English Collocations in Use: Advanced;Felicity O'Dell;Reference
+521732360;Jihad in Saudi Arabia: Violence and Pan-Islamism since 1979 (Cambridge Middle East Studies);Thomas Hegghammer;History
+521734770;Grammar in Use Intermediate Student's Book with Answers and CD-ROM: Self-study Reference and Practice for Students of North American English;Raymond Murphy;Politics & Social Sciences
+521764440;Field Theories of Condensed Matter Physics;Eduardo Fradkin;Science & Math
+521880068;Principles of Igneous and Metamorphic Petrology;Anthony Philpotts;Science & Math
+525426930;Dry Bones: A Walt Longmire Mystery (Walt Longmire Mysteries);Craig Johnson;Literature & Fiction
+525427457;Getting Real;Gretchen Carlson;Biographies & Memoirs
+525428119;Mr. Pants: Trick or Feet!;Scott Mccormick;Children's Books
+525429476;The Expatriates: A Novel;Janice Y. K. Lee;Literature & Fiction
+525483519;Classic Plastic Radios of the 1930s and 1940s: A Collector's Guide to Catalin Models;John Sideli;Crafts, Hobbies & Home
+525946616;The Octopus and the Orangutan: More True Tales of Animal Intrigue, Intelligence, and Ingenuity;Eugene Linden;Sports & Outdoors
+525953892;Devil's Bridge (An Alexandra Cooper Novel);Linda Fairstein;Mystery, Thriller & Suspense
+525954570;Find Her (D. D. Warren);Lisa Gardner;Mystery, Thriller & Suspense
+528002287;Rand McNally World Folded Wall Map (M Series Map of the World);Rand McNally;Reference
+528007548;Thomas Guide: San Bernardino & Riverside Counties Street Guide;Rand McNally;Reference
+528857800;Rand McNally Easy To Fold: Texas;Rand McNally;Reference
+528994972;Rand McNally Southern California Easy to Fold (Laminated) (Rand McNally Easyfinder);Rand McNally;Reference
+529020610;Lost Books of the Bible and the Forgotten Books of Eden;Thomas Nelson;Christian Books & Bibles
+531158306;A Female Focus: Great Women Photographers (Women Then--Women Now);Margot F. Horwitz;Teen & Young Adult
+531212726;Ariana Grande (Real Bios);Marie Morreale;Children's Books
+531212785;Otto Von Bismarck: Iron Chancellor of Germany (Wicked History);Kimberly Burton Heuston;Teen & Young Adult
+531220559;You Wouldn't Want to Live Without the Internet!;Anne Rooney;Children's Books
+531222098;Thomas Edison: Inventor with a Lot of Bright Ideas (Getting to Know the World's Greatest Inventors & Scientists);Mike Venezia;Children's Books
+531281574;Immigration (Cornerstones of Freedom: Third);Peter Benoit;Children's Books
+534358365;Volleyball Today (Wadsworth Health Fitness);Marv Dunphy;Sports & Outdoors
+534560318;Right Down Your Alley: The Beginner's Book of Bowling (The Wadsworth Activities Series);Vesma Grinfelds;Sports & Outdoors
+534575838;Clinical Social Work: Beyond Generalist Practice with Individuals, Groups and Families (Methods / Practice of Social Work: Direct (Micro));Lambert Maguire;Medical Books
+538648929;Century 21 Keyboarding & Information Processing: Complete Course;Jerry W. Robinson;Business & Money
+544103440;To the End of June: The Intimate Life of American Foster Care;Cris Beam;Parenting & Relationships
+544340116;Vivian Apple at the End of the World;Katie Coyle;Teen & Young Adult
+544340477;Mary Poppins: 80th Anniversary Collection;Dr. P. L. Travers;Children's Books
+544568052;Little Blue Truck Leads the Way board book;Alice Schertle;Children's Books
+544611616;Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story;Ursula  K. Le Guin;Reference
+545130484;Ready, Freddy! #22: Science Fair Flop;Abby Klein;Children's Books
+545147131;Vocabulary Cartoon of the Day for Grades 2-3: 180 Reproducible Cartoons That Expand Students' Vocabularies to Help Them Become Better Readers and Writers;Marc Tyler Nobleman;Reference
+545206944;I Survived the Sinking of the Titanic, 1912;Lauren Tarshis;Children's Books
+545348307;Winter's Tail: How One Little Dolphin Learned to Swim Again;Craig Hatkoff;Children's Books
+545393876;Scaredycrow;Christopher Hernandez;Children's Books
+545416787;How Do Dinosaurs Say Merry Christmas?;Jane Yolen;Children's Books
+545433878;My Turtle and Me (Cloud B);Owen Bernstein;Children's Books
+545494788;Mush! The Sled Dogs of the Iditarod;Joe Funk;Sports & Outdoors
+545509157;Rescue Princesses #3: The Moonlight Mystery;Paula Harrison;Children's Books
+545556740;Gabby Douglas: Going for Gold;Tori Kosara;Children's Books
+545663261;Mockingjay (The Hunger Games);Suzanne Collins;Teen & Young Adult
+545663849;LEGO Ninjago: Techno Strike! (Reader #9);Kate Howard;Children's Books
+545682789;Shiver;Maggie Stiefvater;Teen & Young Adult
+545700272;A Handful of Stars;Cynthia Lord;Children's Books
+545820111;Minecraft: Blockopedia;Alex Wiltshire;Children's Books
+545842816;Nonfiction Sight Word Readers Parent Pack Level A: Teaches 25 key Sight Words to Help Your Child Soar as a Reader!;Liza Charlesworth;Test Preparation
+545842840;Nonfiction Sight Word Readers Parent Pack Level D: Teaches 25 key Sight Words to Help Your Child Soar as a Reader!;Liza Charlesworth;Parenting & Relationships
+547318367;Civics in Practice: Student Edition 2009;HOLT MCDOUGAL;Children's Books
+547636474;Pati's Mexican Table: The Secrets of Real Mexican Home Cooking;Pati Jinich;Cookbooks, Food & Wine
+547722044;Tales from Earthsea (The Earthsea Cycle);Ursula K. Le Guin;Teen & Young Adult
+547858191;A Wolf Called Romeo;Nick Jans;Biographies & Memoirs
+547928173;Francona: The Red Sox Years;Terry Francona;Biographies & Memoirs
+551032510;Colours of Survival: Discovering Hope in Bangladesh;Adrian Plass;Travel
+552172774;Shaking Hands with Death;Terry Pratchett;Law
+553213415;Madame Bovary (Bantam Classics);Gustave Flaubert;Mystery, Thriller & Suspense
+553252313;Flint: A Novel;Louis L'Amour;Literature & Fiction
+553293354;Foundation;Isaac Asimov;Science Fiction & Fantasy
+553375407;Ishmael: An Adventure of the Mind and Spirit;Daniel Quinn;Mystery, Thriller & Suspense
+553383698;Your Child's Health: The Parents' One-Stop Reference Guide to: Symptoms, Emergencies, Common Illnesses, Behavior Problems, and Healthy Development;Barton D. Schmitt;Parenting & Relationships
+553391267;Zero World;Jason M. Hough;Science Fiction & Fantasy
+553392042;The Sweet Spot: How to Find Your Groove at Home and Work;Christine Carter Ph.D.;Self-Help
+553418025;The Martian;Andy Weir;Mystery, Thriller & Suspense
+553418777;The Little Paris Bookshop: A Novel;Nina George;Mystery, Thriller & Suspense

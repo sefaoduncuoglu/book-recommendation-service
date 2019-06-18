@@ -28,9 +28,7 @@ public class UserBookRating implements Serializable {
     @Column(name = "rate")
     private int rate;
 
-
     public UserBookRating() {
-
     }
 
     public UserBookRating(User user, Book book) {
@@ -38,10 +36,20 @@ public class UserBookRating implements Serializable {
         this.book = book;
     }
 
+    /**
+     * Gets id.
+     *
+     * @return the instance of the UserBookRatingKey class
+     */
     public UserBookRatingKey getId() {
         return id;
     }
 
+    /**
+     * Sets id.
+     *
+     * @param id is an instance of the UserBookRatingKey class
+     */
     public void setId(UserBookRatingKey id) {
         this.id = id;
     }
@@ -102,7 +110,7 @@ public class UserBookRating implements Serializable {
 
     @Override
     public String toString() {
-        
+
         JSONObject response = new JSONObject();
         response.put("ASIN", String.valueOf(getBook().getASIN()));
         response.put("rate", String.valueOf(getRate()));
