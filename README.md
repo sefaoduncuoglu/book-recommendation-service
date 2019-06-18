@@ -1,1 +1,1 @@
-# book-recommendation-service
+# 📚 Book Recommendation Service
