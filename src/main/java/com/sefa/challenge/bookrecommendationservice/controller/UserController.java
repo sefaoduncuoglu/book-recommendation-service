@@ -4,7 +4,6 @@ import com.sefa.challenge.bookrecommendationservice.exception.ResourceNotFoundEx
 import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
 import com.sefa.challenge.bookrecommendationservice.resource.UserResource;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -16,9 +15,11 @@ import java.util.*;
 @RequestMapping("/api/v1/users")
 public class UserController {
 
-    @Autowired
-    private UserRepository userRepository;
+    private final UserRepository userRepository;
 
+    public UserController(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
 
     /**
      * Gets users.
@@ -30,9 +31,7 @@ public class UserController {
     public ResponseEntity<Object> getAllUsers() {
 
         List<UserResource> userResources = new ArrayList<>();
-        userRepository.findAll().stream().forEach(allUsers -> {
-            userResources.add(getUserResource(allUsers));
-        });
+        userRepository.findAll().forEach(user -> userResources.add(getUserResource(user)));
 
         return ResponseEntity.ok().body(userResources);
     }

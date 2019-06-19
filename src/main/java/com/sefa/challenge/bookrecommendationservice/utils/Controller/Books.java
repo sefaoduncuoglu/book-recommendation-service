@@ -19,7 +19,6 @@ public class Books {
         createBooks(filename);
     }
 
-
     /**
      * Using filename and ReaderFactory, create a collection of books with all necessary data
      *

@@ -7,6 +7,7 @@ import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.repository.BookRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
 import com.sefa.challenge.bookrecommendationservice.resource.BookResource;
+import com.sefa.challenge.bookrecommendationservice.service.Recommender;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -25,17 +26,19 @@ public class BookController {
     @Autowired
     private UserRepository userRepository;
 
+    private final BookRepository bookRepository;
+
     @Autowired
-    private BookRepository bookRepository;
+    public BookController(BookRepository bookRepository) {
+        this.bookRepository = bookRepository;
+    }
 
 
     @GetMapping(value = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Object> getAllBooks() {
 
         List<BookResource> bookResources = new ArrayList<>();
-        bookRepository.findAll().stream().forEach(allBooks -> {
-            bookResources.add(getBookResource(allBooks));
-        });
+        bookRepository.findAll().forEach(book -> bookResources.add(getBookResource(book)));
         return ResponseEntity.ok().body(bookResources);
     }
 
@@ -138,7 +141,7 @@ public class BookController {
      * @throws ResourceNotFoundException if there is no registered User
      */
     @GetMapping("/recommended")
-    public String getRecommendedBooksByUserId(@RequestParam("userId") Long userId)
+    public ResponseEntity getRecommendedBooksByUserId(@RequestParam("userId") Long userId)
             throws ResourceNotFoundException {
 
         User user =
@@ -146,8 +149,10 @@ public class BookController {
                         .findById(userId)
                         .orElseThrow(() -> new ResourceNotFoundException("User not found!"));
 
+        Recommender recommender = new Recommender();
+        String recommendedBooks = recommender.recommendedBooks(userId, userRepository, bookRepository);
 
-        return "Fuck the System!";
+        return ResponseEntity.ok().body(recommendedBooks);
     }
 
     private BookResource getBookResource(Book book) {

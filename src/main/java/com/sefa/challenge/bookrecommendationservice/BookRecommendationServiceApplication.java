@@ -32,9 +32,7 @@ public class BookRecommendationServiceApplication implements CommandLineRunner {
         Controller controller = new Controller();
         List<Book> bookList = new ArrayList<>();
 
-        controller.getBooks().getBooks().forEach((key, book) -> {
-            bookList.add(book);
-        });
+        controller.getBooks().getBooks().forEach((key, book) -> bookList.add(book));
         bookRepository.saveAll(bookList);
 
     }
