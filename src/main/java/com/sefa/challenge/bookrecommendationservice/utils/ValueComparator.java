@@ -1,4 +1,4 @@
-package com.sefa.challenge.bookrecommendationservice.service;
+package com.sefa.challenge.bookrecommendationservice.utils;
 
 import java.util.Comparator;
 import java.util.Map;

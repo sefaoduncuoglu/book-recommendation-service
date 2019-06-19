@@ -1,4 +1,4 @@
-package com.sefa.challenge.bookrecommendationservice.utils;
+package com.sefa.challenge.bookrecommendationservice.controller.datareadercontroller;
 
 /**
  * The Reader interface specifies methods for how files containing info for different classes are to be read. These

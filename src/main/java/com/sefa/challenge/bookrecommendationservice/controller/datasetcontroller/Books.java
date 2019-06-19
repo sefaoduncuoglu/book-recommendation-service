@@ -1,8 +1,8 @@
-package com.sefa.challenge.bookrecommendationservice.utils.Controller;
+package com.sefa.challenge.bookrecommendationservice.controller.datasetcontroller;
 
+import com.sefa.challenge.bookrecommendationservice.controller.datareadercontroller.BookReader;
+import com.sefa.challenge.bookrecommendationservice.controller.datareadercontroller.ReaderFactory;
 import com.sefa.challenge.bookrecommendationservice.model.Book;
-import com.sefa.challenge.bookrecommendationservice.utils.BookReader;
-import com.sefa.challenge.bookrecommendationservice.utils.ReaderFactory;
 
 import java.util.HashMap;
 

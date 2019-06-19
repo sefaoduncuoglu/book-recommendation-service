@@ -1,4 +1,4 @@
-package com.sefa.challenge.bookrecommendationservice.utils;
+package com.sefa.challenge.bookrecommendationservice.controller.datareadercontroller;
 
 import com.sefa.challenge.bookrecommendationservice.model.Book;
 

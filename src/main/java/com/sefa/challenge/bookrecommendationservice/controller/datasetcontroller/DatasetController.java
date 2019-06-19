@@ -1,14 +1,14 @@
-package com.sefa.challenge.bookrecommendationservice.utils.Controller;
+package com.sefa.challenge.bookrecommendationservice.controller.datasetcontroller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Controller {
+public class DatasetController {
 
-    private static final Logger logger = LoggerFactory.getLogger(Controller.class);
+    private static final Logger logger = LoggerFactory.getLogger(DatasetController.class);
     private Books books;
 
-    public Controller() {
+    public DatasetController() {
         logger.info("Reading book data...");
         this.books = new Books("books.txt");
     }

@@ -23,10 +23,9 @@ import java.util.Map;
 @RequestMapping("/api/v1/books")
 public class BookController {
 
+    private final BookRepository bookRepository;
     @Autowired
     private UserRepository userRepository;
-
-    private final BookRepository bookRepository;
 
     @Autowired
     public BookController(BookRepository bookRepository) {
@@ -137,7 +136,7 @@ public class BookController {
      * @return the recommended books by user id
      * @throws ResourceNotFoundException if there is no registered User
      */
-    @GetMapping("/recommended")
+    @GetMapping(value = "/recommended", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity getRecommendedBooksByUserId(@RequestParam("userId") Long userId)
             throws ResourceNotFoundException {
 

@@ -2,6 +2,8 @@ package com.sefa.challenge.bookrecommendationservice.service;
 
 import com.sefa.challenge.bookrecommendationservice.repository.BookRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
+import com.sefa.challenge.bookrecommendationservice.utils.Utils;
+import com.sefa.challenge.bookrecommendationservice.utils.ValueComparator;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -127,7 +129,7 @@ public class Recommender {
      * @return predictions for each book
      */
     private Map<Long, Double> getRecommendations(Map<Long, Integer> userRatings,
-                                                Map<Long, Double> neighbourhoods, Map<Long, String> books) {
+                                                 Map<Long, Double> neighbourhoods, Map<Long, String> books) {
 
         Map<Long, Double> predictedRatings = new HashMap<>();
         double userAverage = getAverage(userRatings);
@@ -172,32 +174,40 @@ public class Recommender {
 
     public String recommendedBooks(Long userId, UserRepository userRepository, BookRepository bookRepository) {
 
-        Map<Long, Integer> userRatings = new HashMap<>();
         Map<Long, Double> averageRating = new HashMap<>();
+        Map<Long, Map<Long, Integer>> myRatesMap = new TreeMap<>();
         Map<Long, Map<Long, Integer>> userWithRatesMap = new TreeMap<>();
 
         userRepository.findAll().forEach(userItem -> {
             Long userID = userItem.getUserId();
-            // We must return the user that requested the recommendation
-            if (userId.equals(userID)) {
-                return;
-            }
+            Map<Long, Integer> userRatings = new HashMap<>();
 
-            userItem.getUserBookRating().forEach(bookRating -> userRatings.put(bookRating.getBook().getASIN(), bookRating.getRate()));
-            userWithRatesMap.put(userID, userRatings);
-            setRatings(userWithRatesMap);
-            averageRating.put(userID, 0.0);
+            userItem.getUserBookRating().forEach(userBookRating -> {
+                        if (userBookRating.getId().getuserId().compareTo(userID) == 0) {
+                            userRatings.put(userBookRating.getId().getASIN(), userBookRating.getRate());
+                        }
+                    }
+            );
 
-            for (Map.Entry<Long, Integer> longIntegerEntry : userRatings.entrySet()) {
+            if (userId.compareTo(userID) == 0) {
+                myRatesMap.put(userID, userRatings);
+            } else {
+                userWithRatesMap.put(userID, userRatings);
 
-                if (ratings.containsKey(userID)) {
-                    ratings.get(userID).put(longIntegerEntry.getKey(), longIntegerEntry.getValue());
-                    averageRating.put(userID, averageRating.get(userID) + (double) longIntegerEntry.getValue());
-                } else {
-                    Map<Long, Integer> bookRating = new HashMap<>();
-                    bookRating.put(longIntegerEntry.getKey(), longIntegerEntry.getValue());
-                    ratings.put(userID, bookRating);
-                    averageRating.put(userID, (double) longIntegerEntry.getValue());
+                setRatings(userWithRatesMap);
+                averageRating.put(userID, 0.0);
+
+                for (Map.Entry<Long, Integer> longIntegerEntry : userRatings.entrySet()) {
+
+                    if (ratings.containsKey(userID)) {
+                        ratings.get(userID).put(longIntegerEntry.getKey(), longIntegerEntry.getValue());
+                        averageRating.put(userID, averageRating.get(userID) + (double) longIntegerEntry.getValue());
+                    } else {
+                        Map<Long, Integer> bookRating = new HashMap<>();
+                        bookRating.put(longIntegerEntry.getKey(), longIntegerEntry.getValue());
+                        ratings.put(userID, bookRating);
+                        averageRating.put(userID, (double) longIntegerEntry.getValue());
+                    }
                 }
             }
         });
@@ -214,22 +224,23 @@ public class Recommender {
 
         bookRepository.findAll().forEach(book -> books.put(book.getASIN(), book.getTitle()));
 
-        Map<Long, Double> neighbourhoods = getNeighbourhoods(userRatings);
-        Map<Long, Double> recommendations = getRecommendations(userRatings, neighbourhoods, books);
+        Map<Long, Double> neighbourhoods = getNeighbourhoods(myRatesMap.get(userId));
+        Map<Long, Double> recommendations = getRecommendations(myRatesMap.get(userId), neighbourhoods, books);
+
         ValueComparator valueComparator = new ValueComparator(recommendations);
         Map<Long, Double> sortedRecommendations = new TreeMap<>(valueComparator);
         sortedRecommendations.putAll(recommendations);
 
         Iterator<Map.Entry<Long, Double>> sortedREntries = sortedRecommendations.entrySet().iterator();
-        JSONObject recommendedBooks = new JSONObject("{}");
         JSONArray recommendedBooksArray = new JSONArray();
 
         int i = 0;
         while (sortedREntries.hasNext() && i < NUM_RECOMMENDATIONS) {
             Map.Entry<Long, Double> entry = sortedREntries.next();
             if (entry.getValue() >= MIN_VALUE_RECOMMENDATION) {
+                JSONObject recommendedBooks = new JSONObject("{}");
                 recommendedBooks.put("Book Title", books.get(entry.getKey()));
-                recommendedBooks.put("Rate", entry.getValue());
+                recommendedBooks.put("Rate", Utils.round(entry.getValue(), 1));
                 recommendedBooksArray.put(recommendedBooks);
                 i++;
             }
