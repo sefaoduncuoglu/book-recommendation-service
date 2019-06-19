@@ -8,7 +8,7 @@ This Book Recommendation Service Application provides to the following functiona
    * The used recommendation algorithm is User-Based Collaborative Filtering using K-Nearest Neighbors with Pearson
 
 The following technologies used in this project:
-Programming Language: Java 8
-Framework: Spring Boot
-Database: MySQL
-Others: RESTful API
+* Programming Language: Java 8
+* Framework: Spring Boot
+* Database: MySQL
+* Others: RESTful API
