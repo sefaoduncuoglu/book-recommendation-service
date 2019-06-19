@@ -9,9 +9,13 @@ import java.util.*;
 
 public class Recommender {
 
+    // Number of output neighbourhoods
     private static final int NUM_NEIGHBOURHOODS = 3;
+    // Number of output recommendations
     private static final int NUM_RECOMMENDATIONS = 20;
+    // Min value of recommended book rates
     private static final int MIN_VALUE_RECOMMENDATION = 4;
+
     /**
      * Map with the user id as key and its ratings as value that is a map with book ASIN as key and its rating as value
      */
@@ -34,7 +38,7 @@ public class Recommender {
         return ratings;
     }
 
-    public void setRatings(Map<Long, Map<Long, Integer>> ratings) {
+    private void setRatings(Map<Long, Map<Long, Integer>> ratings) {
         this.ratings = ratings;
     }
 
@@ -42,7 +46,7 @@ public class Recommender {
         return averageRating;
     }
 
-    public void setAverageRating(Map<Long, Double> averageRating) {
+    private void setAverageRating(Map<Long, Double> averageRating) {
         this.averageRating = averageRating;
     }
 
@@ -56,10 +60,9 @@ public class Recommender {
      * r(u): average rating of the user u
      *
      * @param userRatings ratings of the user
-     * @param k           number of output neighbourhoods
      * @return nearest neighbourhoods
      */
-    private Map<Long, Double> getNeighbourhoods(Map<Long, Integer> userRatings, int k) {
+    private Map<Long, Double> getNeighbourhoods(Map<Long, Integer> userRatings) {
         Map<Long, Double> neighbourhoods = new HashMap<>();
         ValueComparator valueComparator = new ValueComparator(neighbourhoods);
         Map<Long, Double> sortedNeighbourhoods = new TreeMap<>(valueComparator);
@@ -101,7 +104,7 @@ public class Recommender {
 
         Iterator entries = sortedNeighbourhoods.entrySet().iterator();
         int i = 0;
-        while (entries.hasNext() && i < k) {
+        while (entries.hasNext() && i < NUM_NEIGHBOURHOODS) {
             Map.Entry entry = (Map.Entry) entries.next();
             if ((double) entry.getValue() > 0) {
                 output.put((long) entry.getKey(), (double) entry.getValue());
@@ -219,22 +222,22 @@ public class Recommender {
         bookRepository.findAll().forEach(book -> books.put(book.getASIN(), book.getTitle()));
 
 
-        Map<Long, Double> neighbourhoods = getNeighbourhoods(userRatings, NUM_NEIGHBOURHOODS);
+        Map<Long, Double> neighbourhoods = getNeighbourhoods(userRatings);
         Map<Long, Double> recommendations = getRecommendations(userRatings, neighbourhoods, books);
         ValueComparator valueComparator = new ValueComparator(recommendations);
         Map<Long, Double> sortedRecommendations = new TreeMap<>(valueComparator);
         sortedRecommendations.putAll(recommendations);
 
-        Iterator sortedREntries = sortedRecommendations.entrySet().iterator();
+        Iterator<Map.Entry<Long, Double>> sortedREntries = sortedRecommendations.entrySet().iterator();
         JSONObject recommendedBooks = new JSONObject("{}");
         JSONArray recommendedBooksArray = new JSONArray();
 
         int i = 0;
         while (sortedREntries.hasNext() && i < NUM_RECOMMENDATIONS) {
-            Map.Entry entry = (Map.Entry) sortedREntries.next();
-            if ((double) entry.getValue() >= MIN_VALUE_RECOMMENDATION) {
+            Map.Entry<Long, Double> entry = sortedREntries.next();
+            if (entry.getValue() >= MIN_VALUE_RECOMMENDATION) {
                 recommendedBooks.put("Book Title", books.get(entry.getKey()));
-                recommendedBooks.put("Rate", (double) entry.getValue());
+                recommendedBooks.put("Rate", entry.getValue());
                 recommendedBooksArray.put(recommendedBooks);
                 i++;
             }
