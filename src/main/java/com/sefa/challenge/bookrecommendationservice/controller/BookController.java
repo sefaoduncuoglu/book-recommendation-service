@@ -33,7 +33,6 @@ public class BookController {
         this.bookRepository = bookRepository;
     }
 
-
     @GetMapping(value = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Object> getAllBooks() {
 
@@ -67,7 +66,6 @@ public class BookController {
         return ResponseEntity.ok().body(bookResource);
     }
 
-
     /**
      * Create book.
      *
@@ -85,7 +83,6 @@ public class BookController {
 
         return ResponseEntity.ok().body(getBookResource(bookRepository.save(bookData)));
     }
-
 
     /**
      * Update book response entity.

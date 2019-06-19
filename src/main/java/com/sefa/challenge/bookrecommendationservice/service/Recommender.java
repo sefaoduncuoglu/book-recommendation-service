@@ -10,7 +10,7 @@ import java.util.*;
 public class Recommender {
 
     // Number of output neighbourhoods
-    private static final int NUM_NEIGHBOURHOODS = 3;
+    private static final int NUM_NEIGHBOURHOODS = 10;
     // Number of output recommendations
     private static final int NUM_RECOMMENDATIONS = 20;
     // Min value of recommended book rates
@@ -204,8 +204,7 @@ public class Recommender {
 
         for (Map.Entry<Long, Double> longDoubleEntry : averageRating.entrySet()) {
             if (ratings.containsKey(longDoubleEntry.getKey())) {
-                double x = (double) ratings.get(longDoubleEntry.getKey()).size();
-                longDoubleEntry.setValue(longDoubleEntry.getValue() / x);
+                longDoubleEntry.setValue(longDoubleEntry.getValue() / (double) ratings.get(longDoubleEntry.getKey()).size());
             }
         }
 
