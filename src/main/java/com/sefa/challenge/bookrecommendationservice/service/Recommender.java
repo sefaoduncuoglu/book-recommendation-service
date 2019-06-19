@@ -9,9 +9,9 @@ import java.util.*;
 
 public class Recommender {
 
-    public static final int NUM_NEIGHBOURHOODS = 3;
-    public static final int NUM_RECOMMENDATIONS = 20;
-    public static final int MIN_VALUE_RECOMMENDATION = 4;
+    private static final int NUM_NEIGHBOURHOODS = 3;
+    private static final int NUM_RECOMMENDATIONS = 20;
+    private static final int MIN_VALUE_RECOMMENDATION = 4;
     /**
      * Map with the user id as key and its ratings as value that is a map with book ASIN as key and its rating as value
      */
@@ -59,7 +59,7 @@ public class Recommender {
      * @param k           number of output neighbourhoods
      * @return nearest neighbourhoods
      */
-    public Map<Long, Double> getNeighbourhoods(Map<Long, Integer> userRatings, int k) {
+    private Map<Long, Double> getNeighbourhoods(Map<Long, Integer> userRatings, int k) {
         Map<Long, Double> neighbourhoods = new HashMap<>();
         ValueComparator valueComparator = new ValueComparator(neighbourhoods);
         Map<Long, Double> sortedNeighbourhoods = new TreeMap<>(valueComparator);
@@ -124,7 +124,7 @@ public class Recommender {
      * @param books          books in the database
      * @return predictions for each book
      */
-    public Map<Long, Double> getRecommendations(Map<Long, Integer> userRatings,
+    private Map<Long, Double> getRecommendations(Map<Long, Integer> userRatings,
                                                 Map<Long, Double> neighbourhoods, Map<Long, String> books) {
         Map<Long, Double> predictedRatings = new HashMap<>();
 
