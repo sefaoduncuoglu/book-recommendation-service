@@ -110,7 +110,6 @@ public class UserBookRating implements Serializable {
 
     @Override
     public String toString() {
-
         JSONObject response = new JSONObject();
         response.put("ASIN", String.valueOf(getBook().getASIN()));
         response.put("rate", String.valueOf(getRate()));

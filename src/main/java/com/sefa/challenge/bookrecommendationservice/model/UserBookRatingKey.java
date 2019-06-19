@@ -40,10 +40,13 @@ public class UserBookRatingKey implements Serializable {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
+        if (this == o) {
+            return true;
+        }
 
-        if (o == null || getClass() != o.getClass())
+        if (o == null || getClass() != o.getClass()) {
             return false;
+        }
 
         UserBookRatingKey that = (UserBookRatingKey) o;
         return Objects.equals(userId, that.userId) &&
@@ -54,5 +57,4 @@ public class UserBookRatingKey implements Serializable {
     public int hashCode() {
         return Objects.hash(userId, asin);
     }
-
 }

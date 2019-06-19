@@ -65,9 +65,7 @@ public class BookReader implements Reader {
         String genre = info[3];
 
         //Branched behavior for if book is in hashmap
-        if (theBooks.containsKey(ASIN)) {
-            return;
-        } else {
+        if (!theBooks.containsKey(ASIN)) {
             Book newBook = new Book(ASIN, title, author, genre);
             theBooks.put(ASIN, newBook);
         }

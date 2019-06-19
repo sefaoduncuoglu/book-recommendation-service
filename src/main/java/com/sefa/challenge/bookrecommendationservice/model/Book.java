@@ -128,9 +128,7 @@ public class Book {
 
     @Override
     public String toString() {
-
         JSONObject response = new JSONObject();
-
         response.put("ASIN", String.valueOf(getASIN()));
         response.put("title", getTitle());
         response.put("author", getAuthor());

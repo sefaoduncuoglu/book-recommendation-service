@@ -31,7 +31,6 @@ public class UserBookRatingController {
     @Autowired
     private BookRepository bookRepository;
 
-
     @GetMapping(value = "/ratedbooks", produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
     public ResponseEntity<String> getUserRatedBooks(@RequestParam("userId") long userId)
@@ -65,10 +64,9 @@ public class UserBookRatingController {
 
         List<UserBookRating> updatedBookRates = new ArrayList<>();
 
-
-        for (HashMap<String, String> map : bookRates) {
-            long bookASIN = Long.valueOf(map.get("asin"));
-            int rate = Integer.valueOf(map.get("rate"));
+        for (HashMap<Long, Integer> map : bookRates) {
+            long bookASIN = map.get("asin");
+            int rate = map.get("rate");
             Book book =
                     bookRepository
                             .findById(bookASIN)

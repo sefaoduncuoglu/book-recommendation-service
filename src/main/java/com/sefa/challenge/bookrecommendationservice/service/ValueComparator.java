@@ -3,11 +3,11 @@ package com.sefa.challenge.bookrecommendationservice.service;
 import java.util.Comparator;
 import java.util.Map;
 
-public /**
+/**
  * Comparator to sort a HashMap by its value:
  * http://stackoverflow.com/questions/109383/sort-a-mapkey-value-by-values-java
  */
-class ValueComparator implements Comparator<Long> {
+public class ValueComparator implements Comparator<Long> {
     private final Map<Long, Double> base;
 
     public ValueComparator(Map<Long, Double> base) {

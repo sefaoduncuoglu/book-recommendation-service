@@ -111,7 +111,6 @@ public class Recommender {
                 i++;
             }
         }
-
         return output;
     }
 
@@ -129,8 +128,8 @@ public class Recommender {
      */
     private Map<Long, Double> getRecommendations(Map<Long, Integer> userRatings,
                                                 Map<Long, Double> neighbourhoods, Map<Long, String> books) {
-        Map<Long, Double> predictedRatings = new HashMap<>();
 
+        Map<Long, Double> predictedRatings = new HashMap<>();
         double userAverage = getAverage(userRatings);
 
         for (Long bookASIN : books.keySet()) {
@@ -154,7 +153,6 @@ public class Recommender {
                 predictedRatings.put(bookASIN, predictedRating);
             }
         }
-
         return predictedRatings;
     }
 
@@ -179,9 +177,7 @@ public class Recommender {
         Map<Long, Map<Long, Integer>> userWithRatesMap = new TreeMap<>();
 
         userRepository.findAll().forEach(userItem -> {
-
             Long userID = userItem.getUserId();
-
             // We must return the user that requested the recommendation
             if (userId.equals(userID)) {
                 return;
@@ -206,7 +202,6 @@ public class Recommender {
             }
         });
 
-
         for (Map.Entry<Long, Double> longDoubleEntry : averageRating.entrySet()) {
             if (ratings.containsKey(longDoubleEntry.getKey())) {
                 double x = (double) ratings.get(longDoubleEntry.getKey()).size();
@@ -216,11 +211,9 @@ public class Recommender {
 
         setAverageRating(averageRating);
 
-
         Map<Long, String> books = new HashMap<>();
 
         bookRepository.findAll().forEach(book -> books.put(book.getASIN(), book.getTitle()));
-
 
         Map<Long, Double> neighbourhoods = getNeighbourhoods(userRatings);
         Map<Long, Double> recommendations = getRecommendations(userRatings, neighbourhoods, books);
