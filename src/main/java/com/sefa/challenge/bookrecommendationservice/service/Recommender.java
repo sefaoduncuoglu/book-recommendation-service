@@ -116,13 +116,13 @@ public class Recommender {
      * Get predictions of each book by a user giving some ratings and its neighbourhood:
      * r(u,i) = r(u) + sum(sim(u,v) * (r(v,i) - r(v))) / sum(abs(sim(u,v)))
      * sim(u,v): similarity between u and v users
-     * r(u,i): rating of the movie i by the user u
+     * r(u,i): rating of the book i by the user u
      * r(u): average rating of the user u
      *
      * @param userRatings    ratings of the user
      * @param neighbourhoods nearest neighbourhoods
      * @param books          books in the database
-     * @return predictions for each movie
+     * @return predictions for each book
      */
     public Map<Long, Double> getRecommendations(Map<Long, Integer> userRatings,
                                                 Map<Long, Double> neighbourhoods, Map<Long, String> books) {
