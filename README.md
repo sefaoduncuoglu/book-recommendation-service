@@ -11,4 +11,13 @@ The following technologies used in this project:
 * Programming Language: Java 8
 * Framework: Spring Boot
 * Database: MySQL
-* Others: RESTful API
+* Others: RESTful API, Postman
+
+How to use this application service? Good Question! please follow the instructions:
+1. Import the sfa-db.sql to MySQL database
+2. Make sure the MySQL connection password should be set in application.properties
+3. Make sure books.txt file is not empty
+4. Start the Book Recommendation Service Application
+5. Use the Postman API collection for API Requests.
+
+That's All!
