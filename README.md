@@ -9,8 +9,8 @@ This Book Recommendation Service Application provides to the following functiona
 
 The following technologies used in this project:
 * Programming Language: Java 8
-* Framework: Spring Boot
-* Database: MySQL
+* Framework: Spring Boot 2.1.5
+* Database: MySQL 8.0.16
 * Others: RESTful API, Postman
 
 How to use this application service? Good Question! please follow the instructions:
