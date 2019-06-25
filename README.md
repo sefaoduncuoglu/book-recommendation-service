@@ -13,6 +13,11 @@ The following technologies used in this project:
 * Database: MySQL 8.0.16
 * Others: RESTful API, Postman
 
+The following design patterns were used.
+- Three Tier Architecture,
+- Concrete and Abstract Factory Design,
+- Dependency Injection.
+
 How to use this application service? Good Question! please follow the instructions:
 1. Import the sfa-db.sql to MySQL database
 2. Make sure the MySQL connection password should be set in application.properties
