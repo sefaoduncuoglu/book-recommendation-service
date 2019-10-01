@@ -3,7 +3,6 @@ package com.sefa.challenge.bookrecommendationservice.controller;
 import com.sefa.challenge.bookrecommendationservice.exception.ResourceAlreadyExistsException;
 import com.sefa.challenge.bookrecommendationservice.exception.ResourceNotFoundException;
 import com.sefa.challenge.bookrecommendationservice.model.Book;
-import com.sefa.challenge.bookrecommendationservice.model.User;
 import com.sefa.challenge.bookrecommendationservice.repository.BookRepository;
 import com.sefa.challenge.bookrecommendationservice.repository.UserRepository;
 import com.sefa.challenge.bookrecommendationservice.resource.BookResource;

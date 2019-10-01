@@ -2,7 +2,7 @@ package com.sefa.challenge.bookrecommendationservice.controller.datareadercontro
 
 /**
  * The Reader interface specifies methods for how files containing info for different classes are to be read. These
- * classes are implemented elsewehre
+ * classes are implemented elsewhere
  *
  * @author Sefa Oduncuoglu
  */

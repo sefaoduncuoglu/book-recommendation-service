@@ -132,11 +132,19 @@ public class Recommender {
                                                  Map<Long, Double> neighbourhoods, Map<Long, String> books) {
 
         Map<Long, Double> predictedRatings = new HashMap<>();
+
+        // r(u)
         double userAverage = getAverage(userRatings);
 
         for (Long bookASIN : books.keySet()) {
             if (!userRatings.containsKey(bookASIN)) {
-                double numerator = 0, denominator = 0;
+
+                // sum(sim(u,v) * (r(v,i) - r(v)))
+                double numerator = 0;
+
+                // sum(abs(sim(u,v)))
+                double denominator = 0;
+
                 for (Long neighbourhood : neighbourhoods.keySet()) {
                     if (ratings.get(neighbourhood).containsKey(bookASIN)) {
                         double matchRate = neighbourhoods.get(neighbourhood);
@@ -145,6 +153,7 @@ public class Recommender {
                         denominator += Math.abs(matchRate);
                     }
                 }
+
                 double predictedRating = 0;
                 if (denominator > 0) {
                     predictedRating = userAverage + numerator / denominator;

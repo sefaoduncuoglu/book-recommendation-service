@@ -26,7 +26,6 @@ public class BookRecommendationServiceApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-
         logger.info("BookRecommendationServiceApplication....");
 
         DatasetController datasetController = new DatasetController();
@@ -39,6 +38,5 @@ public class BookRecommendationServiceApplication implements CommandLineRunner {
         });
 
         bookRepository.saveAll(bookList);
-
     }
 }
