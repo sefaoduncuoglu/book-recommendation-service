@@ -140,10 +140,9 @@ public class BookController {
     public ResponseEntity getRecommendedBooksByUserId(@RequestParam("userId") Long userId)
             throws ResourceNotFoundException {
 
-        User user =
-                userRepository
-                        .findById(userId)
-                        .orElseThrow(() -> new ResourceNotFoundException("User not found!"));
+        if (!userRepository.existsById(userId)) {
+            throw new ResourceNotFoundException("User not found!");
+        }
 
         Recommender recommender = new Recommender();
         String recommendedBooks = recommender.recommendedBooks(userId, userRepository, bookRepository);
