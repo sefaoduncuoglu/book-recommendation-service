@@ -6,9 +6,11 @@ import com.sefa.challenge.bookrecommendationservice.utils.Utils;
 import com.sefa.challenge.bookrecommendationservice.utils.ValueComparator;
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.springframework.stereotype.Component;
 
 import java.util.*;
 
+@Component
 public class Recommender {
 
     // Number of output neighbourhoods

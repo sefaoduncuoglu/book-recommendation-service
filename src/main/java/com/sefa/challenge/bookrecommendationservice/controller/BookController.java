@@ -31,6 +31,9 @@ public class BookController {
         this.bookRepository = bookRepository;
     }
 
+    @Autowired
+    Recommender recommender;
+
     @GetMapping(value = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Object> getAllBooks() {
 
@@ -143,7 +146,6 @@ public class BookController {
             throw new ResourceNotFoundException("User not found!");
         }
 
-        Recommender recommender = new Recommender();
         String recommendedBooks = recommender.recommendedBooks(userId, userRepository, bookRepository);
 
         return ResponseEntity.ok().body(recommendedBooks);

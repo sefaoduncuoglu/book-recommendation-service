@@ -64,9 +64,9 @@ public class UserBookRatingController {
 
         List<UserBookRating> updatedBookRates = new ArrayList<>();
 
-        for (HashMap<Long, Integer> map : bookRates) {
-            long bookASIN = map.get("asin");
-            int rate = map.get("rate");
+        for (HashMap map : bookRates) {
+            long bookASIN = Long.parseLong(map.get("asin").toString());
+            int rate = Integer.parseInt(map.get("rate").toString());
             Book book =
                     bookRepository
                             .findById(bookASIN)
