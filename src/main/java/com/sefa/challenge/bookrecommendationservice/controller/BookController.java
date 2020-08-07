@@ -119,7 +119,7 @@ public class BookController {
      */
     @DeleteMapping(value = "/book", produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
-    public ResponseEntity deleteUser(@RequestParam("bookASIN") Long bookASIN) throws Exception {
+    public ResponseEntity deleteBook(@RequestParam("bookASIN") Long bookASIN) throws Exception {
         Book book =
                 bookRepository
                         .findById(bookASIN)
